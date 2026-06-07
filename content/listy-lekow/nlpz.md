@@ -1,0 +1,39 @@
+---
+title: "NLPZ"
+tags:
+  - farmakologia
+  - listy-leków
+---
+
+- kwas acetylosalicylowy
+- salicylan choliny, salicylan metylu
+- salicylamid
+- etenzamid
+- kwas 5-aminosalicylowy
+- diklofenak
+- aceklofenak
+- nepafenak
+- bromfenak
+- etofenamat
+- acemetacyna
+- indometacyna
+- ketoprofen
+- deksketoprofen
+- pranoprofen
+- naproksen
+- ibuprofen
+- flurbiprofen
+- kwas mefenamowy
+- kwas tolfenamowy
+- propyfenazon
+- metamizol
+- fenylobutazon
+- paracetamol
+- piroksykam
+- lornoksykam
+- meloksykam
+- nabumeton
+- nimesulid
+- celekoksyb
+- etorikoksyb
+- nefopam

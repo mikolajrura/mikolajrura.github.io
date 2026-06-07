@@ -1,0 +1,39 @@
+---
+title: "Leki stosowane w astmie"
+tags:
+  - farmakologia
+  - listy-leków
+---
+
+- Salbutamol
+- Fenoterol
+- Formoterol
+- Salmeterol
+- Indakaterol
+- Olodaterol
+- Wilanterol
+- Budezonid
+- Beklometazon
+- Cyklezonid
+- Flutikazon
+- Prednizon
+- Prednizolon
+- Hydrokortyzon
+- Betametazon
+- Deksametazon
+- Metyloprednizolon
+- Mometazon
+- Kromoglikan sodowy
+- Montelukast
+- Zileuton - niedostępny w Polsce
+- Omalizumab
+- Mepolizumab
+- Reslizumab
+- Benralizumab
+- Dupilumab
+- Tezepelumab
+- Teofilina
+- Bromek Ipratropium
+- Bromek Tiotropium
+- Bromek Glikopironium
+- Bromek Umeklidynium

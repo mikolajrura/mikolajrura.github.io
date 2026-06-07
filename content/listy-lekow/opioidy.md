@@ -1,0 +1,32 @@
+---
+title: "Opioidowe leki przeciwbólowe"
+tags:
+  - farmakologia
+  - listy-leków
+---
+
+- morfina
+- etylomorfina (dionina) (subst. do receptury)
+- kodeina
+- dihydrokodeina
+- oksykodon (oksykodon+nalokson)
+- metadon
+- dekstrometorfan
+- alfentanyl
+- sufentanyl
+- remifentanyl
+- fentanyl
+- petydyna (niedostępna w Polsce, aktualnie brak zarejestrowanego preparatu)
+- difenoksylat
+- loperamid
+- buprenorfina
+- pentazocyna
+- tramadol
+- tapentadol
+- nalmefen
+- nalokson
+- naltrekson
+- metylonaltrekson
+- naloksegol
+- alwimopan - brak rejestracji w Polsce
+- naldemedyna
