@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     locale: "pl-PL",
     baseUrl: "localhost:8080",
     // ^ przy deployu na GitHub Pages zmień na: mikolajrura.github.io
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "private/**", "templates", "templates/**", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

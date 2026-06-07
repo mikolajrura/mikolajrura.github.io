@@ -5,7 +5,7 @@ tags:
   - listy-leków
 ---
 
-- morfina
+- [[morfina|morfina]]
 - etylomorfina (dionina) (subst. do receptury)
 - kodeina
 - dihydrokodeina

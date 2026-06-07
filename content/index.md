@@ -7,7 +7,7 @@ Otwarte, czytelne notatki z farmakologii — pisane po to, żeby się z nich **d
 ## Działy
 
 - [[listy-lekow/index|Listy leków]] — listy obowiązujące na zajęciach, pogrupowane tematycznie
-- [[leki-przeciwbolowe/index|Leki przeciwbólowe]]
+- [[leki/index|Leki]] — pojedyncze notatki o lekach (mechanizm, wzór, dawkowanie)
 - *(dodawaj kolejne działy tutaj)*
 
 ## Jak korzystać
