@@ -8,13 +8,13 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Notatki z Farmakologii",
+    pageTitle: "Pharmacology Masterrace",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
     locale: "pl-PL",
-    baseUrl: "localhost:8080",
+    baseUrl: "mikolajrura.github.io",
     // ^ przy deployu na GitHub Pages zmień na: mikolajrura.github.io
     ignorePatterns: ["private", "private/**", "templates", "templates/**", ".obsidian"],
     defaultDateType: "modified",
@@ -33,8 +33,8 @@ const config: QuartzConfig = {
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
+          secondary: "#5c39de",
+          tertiary: "#8f74ee",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
         },
@@ -44,8 +44,8 @@ const config: QuartzConfig = {
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
+          secondary: "#ae72e9",
+          tertiary: "#c79bf2",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",
         },
@@ -56,6 +56,7 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.Molecules(),
+      Plugin.Quiz(),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "git", "filesystem"],
       }),
