@@ -7,7 +7,7 @@ sekcja: autakoidy
 ---
 
 > [!info] O tej notatce
-> Pytania z egzaminu 2-termin 13.07.2023, zroutowane po lekach/tematach.
+> Pytania z egzaminu 2-termin 13.07.2023.
 
 
 ## Egzamin 2-termin 13.07.2023
@@ -15,7 +15,7 @@ sekcja: autakoidy
 ### 2T2023 · 1
 
 ```quiz
-Wybierz prawdziwe/faływe zestawienie: Betahistyna – antagonista H3 w OUN + słaby agonista H1 w naczyniach + antagonista 5-HT, NA, GABA, Ach Chyba było „Wybierz nieprawdziwe”
+Wybierz prawdziwe/fałszywe zestawienie: Betahistyna – antagonista H3 w OUN + słaby agonista H1 w naczyniach + antagonista 5-HT, NA, GABA, Ach Chyba było „Wybierz nieprawdziwe”
 - Ketotyfen – stabilizuje komórki tuczne - alergiczny nieżyt nosa
 + Betahistyna - słaby agonista H3 (źle bo jest antagonistą)
 ```

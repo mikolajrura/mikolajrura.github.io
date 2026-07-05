@@ -131,7 +131,7 @@ Jakiego działanie NIE wykazuje digoksyna? a
 ---
 
 
-## Egzamin 2-termin 13.07.2023 (dodane)
+## Egzamin 2-termin 13.07.2023
 
 ### 2T2023 · 1
 

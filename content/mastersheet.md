@@ -3,8 +3,6 @@ title: "Mastersheet"
 ---
 
 
-
-
 Poniżej stworzyłem wielką agregację wszystkich leków które dostawaliśmy w listach na aksonie. Wszystko co jest fioletowe jest tutaj klikalne jako odnośnik jak na Wikipedii. 
 
 W przeciwieństwie do Wikipedii można ufać temu w 100%, ponieważ jak wiadomo nie wolno wierzyć nic w co jest internecie bo napisał to człowiek, który może się mylić. Tutaj wszystko napisało AI, czyli nie człowiek. 
