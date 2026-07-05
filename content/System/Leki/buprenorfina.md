@@ -1,0 +1,20 @@
+---
+title: "Buprenorfina"
+tags:
+  - lek
+---
+
+> [!info] Szybkie fakty
+> **Sekcje:** [[System/Sekcje leków/opioidy|Opioidowe leki przeciwbólowe]]
+
+```smiles
+C[C@]([C@H]1C[C@@]23CC[C@@]1([C@H]4[C@@]25CCN([C@@H]3CC6=C5C(=C(C=C6)O)O4)CC7CC7)OC)(C(C)(C)C)O
+```
+
+## Mechanizm działania
+
+## Wskazania
+
+## Działania niepożądane
+
+## Uwagi

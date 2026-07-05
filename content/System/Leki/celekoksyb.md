@@ -1,0 +1,20 @@
+---
+title: "Celekoksyb"
+tags:
+  - lek
+---
+
+> [!info] Szybkie fakty
+> **Sekcje:** [[System/Sekcje leków/nlpz|NLPZ]]
+
+```smiles
+CC1=CC=C(C=C1)C2=CC(=NN2C3=CC=C(C=C3)S(=O)(=O)N)C(F)(F)F
+```
+
+## Mechanizm działania
+
+## Wskazania
+
+## Działania niepożądane
+
+## Uwagi

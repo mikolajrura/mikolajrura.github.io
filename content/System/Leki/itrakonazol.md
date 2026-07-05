@@ -1,0 +1,20 @@
+---
+title: "Itrakonazol"
+tags:
+  - lek
+---
+
+> [!info] Szybkie fakty
+> **Sekcje:** [[System/Sekcje leków/dermatologiczne|Leki dermatologiczne]]
+
+```smiles
+CCC(C)N1C(=O)N(C=N1)C2=CC=C(C=C2)N3CCN(CC3)C4=CC=C(C=C4)OC[C@@H]5CO[C@@](O5)(CN6C=NC=N6)C7=C(C=C(C=C7)Cl)Cl
+```
+
+## Mechanizm działania
+
+## Wskazania
+
+## Działania niepożądane
+
+## Uwagi

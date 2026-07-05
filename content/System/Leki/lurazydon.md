@@ -1,0 +1,20 @@
+---
+title: "Lurazydon"
+tags:
+  - lek
+---
+
+> [!info] Szybkie fakty
+> **Sekcje:** [[System/Sekcje leków/przeciwpsychotyczne|Leki przeciwpsychotyczne]]
+
+```smiles
+C1CC[C@H]([C@@H](C1)CN2CCN(CC2)C3=NSC4=CC=CC=C43)CN5C(=O)[C@H]6[C@@H]7CC[C@@H](C7)[C@H]6C5=O
+```
+
+## Mechanizm działania
+
+## Wskazania
+
+## Działania niepożądane
+
+## Uwagi

@@ -1,0 +1,20 @@
+---
+title: "Apiksaban"
+tags:
+  - lek
+---
+
+> [!info] Szybkie fakty
+> **Sekcje:** [[System/Sekcje leków/krzepniecie|Krzepnięcie; niedokrwistość]]
+
+```smiles
+COC1=CC=C(C=C1)N2C3=C(CCN(C3=O)C4=CC=C(C=C4)N5CCCCC5=O)C(=N2)C(=O)N
+```
+
+## Mechanizm działania
+
+## Wskazania
+
+## Działania niepożądane
+
+## Uwagi

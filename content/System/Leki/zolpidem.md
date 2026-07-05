@@ -1,0 +1,20 @@
+---
+title: "Zolpidem"
+tags:
+  - lek
+---
+
+> [!info] Szybkie fakty
+> **Sekcje:** [[System/Sekcje leków/przeciwlekowe-nasenne|Przeciwlękowe, uspokajające, nasenne]]
+
+```smiles
+CC1=CC=C(C=C1)C2=C(N3C=C(C=CC3=N2)C)CC(=O)N(C)C
+```
+
+## Mechanizm działania
+
+## Wskazania
+
+## Działania niepożądane
+
+## Uwagi

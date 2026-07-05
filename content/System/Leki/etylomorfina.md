@@ -1,0 +1,20 @@
+---
+title: "Etylomorfina"
+tags:
+  - lek
+---
+
+> [!info] Szybkie fakty
+> **Sekcje:** [[System/Sekcje leków/opioidy|Opioidowe leki przeciwbólowe]]
+
+```smiles
+CCOC1=C2C3=C(C[C@@H]4[C@H]5[C@]3(CCN4C)[C@@H](O2)[C@H](C=C5)O)C=C1
+```
+
+## Mechanizm działania
+
+## Wskazania
+
+## Działania niepożądane
+
+## Uwagi

@@ -1,0 +1,73 @@
+---
+title: "Przewód pokarmowy"
+tags:
+  - farmakologia
+  - sekcja
+kind: sekcja
+---
+
+> [!info] Sekcja 32
+> Wróć do [[mastersheet|Mastersheet]]. Pytania: [[System/Bazy pytań/przewod-pokarmowy|Pytania — Przewód pokarmowy]].
+
+## Leki
+
+- [[dimenhydrynat|Dimenhydrynat]]
+- [[prometazyna|Prometazyna]]
+- [[hydroksyzyna|Hydroksyzyna]]
+- [[deksametazon|Deksametazon]]
+- [[bromek-n-butyloskopolaminy-lub-bromek-n-butylohyoscyny|Bromek N-butyloskopolaminy lub bromek N-butylohyoscyny]]
+- [[ondansetron|Ondansetron]]
+- [[metoklopramid|Metoklopramid]]
+- [[itopryd|Itopryd]]
+- [[aprepitant|Aprepitant]]
+- [[inulina|Inulina]]
+- [[babka-plesznik|Babka płesznik]]
+- [[metyloceluloza|Metyloceluloza]]
+- [[polikarbofil|Polikarbofil]]
+- [[blonnik-pokarmowy|Błonnik pokarmowy]]
+- [[otreby|Otręby]]
+- [[platki-owsiane|Płatki owsiane]]
+- [[pektyny|Pektyny]]
+- [[gumy-roslinne-agar|Gumy roślinne (agar]]
+- [[sterkulina|Sterkulina)]]
+- [[parafina-ciekla|Parafina ciekła]]
+- [[fosforan-sodu|Fosforan sodu]]
+- [[cytrynian-magnezu|Cytrynian magnezu]]
+- [[wodorotlenek-magnezu|Wodorotlenek magnezu]]
+- [[siarczan-magnezu|Siarczan magnezu]]
+- [[jednozasadowy-fosforan-sodu|Jednozasadowy fosforan sodu]]
+- [[difosforan-sodu|Difosforan sodu]]
+- [[siarczan-sodu|Siarczan sodu]]
+- [[ksylitol|Ksylitol]]
+- [[sorbitol|Sorbitol]]
+- [[laktikol|Laktikol]]
+- [[mannitol|Mannitol]]
+- [[laktoza|Laktoza]]
+- [[laktuloza-i-polietylenoglikol|Laktuloza i polietylenoglikol]]
+- [[lisc-senesu|Liść senesu]]
+- [[kora-kruszyny|Kora kruszyny]]
+- [[aloes|Aloes]]
+- [[klacze-rzewienia|Kłącze rzewienia]]
+- [[kora-szaklaka|Kora szakłaka]]
+- [[olej-rycynowy|Olej rycynowy]]
+- [[bisakodyl|Bisakodyl]]
+- [[loperamid|Loperamid]]
+- [[difenoksylat|Difenoksylat]]
+- [[wegiel-leczniczy|Węgiel leczniczy]]
+- [[diosmektyt|Diosmektyt]]
+- [[kwas-ursodeoksycholowy|Kwas ursodeoksycholowy]]
+- [[hymekromon|Hymekromon]]
+- [[drotaweryna|Drotaweryna]]
+- [[alweryna|Alweryna]]
+- [[mebeweryna|Mebeweryna]]
+- [[trimebutyna|Trimebutyna]]
+- [[simetykon|Simetykon]]
+- [[ostropest-plamisty|Ostropest plamisty]]
+- [[karczochy|Karczochy]]
+- [[klacza-kurkurumy|Kłącza kurkurumy]]
+- [[bylica-boze-drzewko|Bylica boże drzewko]]
+- [[mniszek-lekarski|Mniszek lekarski]]
+- [[owoc-jalowca|Owoc jałowca]]
+- [[ziele-dziurawca|Ziele dziurawca]]
+- [[rdest-ptasi|Rdest ptasi]]
+- [[itp|Itp]]
