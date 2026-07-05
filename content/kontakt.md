@@ -16,4 +16,7 @@ W razie znalezienia jakiegokolwiek błędu, coś ktoś chce dodać, cokolwiek, z
 > [!tip] Mail
 > mikolajbiologist@pm.me
 
+> [!info] Kod źródłowy
+> Cały projekt jest otwarty na GitHubie: [github.com/mikolajrura/mikolajrura.github.io](https://github.com/mikolajrura/mikolajrura.github.io) — możesz zgłosić błąd, dorzucić coś przez pull request albo po prostu podejrzeć jak to zrobione.
+
 
