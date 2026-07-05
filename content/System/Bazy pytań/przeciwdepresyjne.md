@@ -1417,3 +1417,23 @@ Stosuje się traxondon z ssri. Wskaż prawidłowe: A.  To nieprawda B
 > Ssri pobudzają a trazodon usypia
 
 ---
+
+
+## Egzamin 2-termin 13.07.2023 (dodane)
+
+### 2T2023 · 1
+
+Fałszywe o mechanizmach
+
+> [!success]- Odpowiedź
+> moklobemid powoduje wychwyt zwrotny NA i 5-HT
+
+---
+### 2T2023 · 2
+
+Pacjentowi z ciężką depresją i nadciśnieniem przepisano wenlafaksynę. Który lek byłby lepszy ze względu na chore serce czy coś takiego. Do wyboru – sertralina /
+
+> [!success]- Odpowiedź
+> duloksetyna
+
+---

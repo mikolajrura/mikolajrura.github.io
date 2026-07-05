@@ -492,3 +492,31 @@ Wybrać lek przeciwgruźliczy, który jest induktorem enzymatycznym (cos w tym s
 > ryfampicyna
 
 ---
+
+
+## Egzamin 2-termin 13.07.2023 (dodane)
+
+### 2T2023 · 1
+
+Co spowoduje reakcję disulfiramową z
+
+> [!success]- Odpowiedź
+> furazydyną
+
+---
+### 2T2023 · 2
+
+Induktor CYP 450 – izoniazyd /
+
+> [!success]- Odpowiedź
+> ryfampicyna
+
+---
+### 2T2023 · 3
+
+Linezolid wskaż fałszywy opis - przy doustnym 100% biodost./
+
+> [!success]- Odpowiedź
+> działa na 30S
+
+---

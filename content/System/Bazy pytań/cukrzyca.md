@@ -125,3 +125,34 @@ jaki lek powoduje hipoglikemię przy nieregularnych posiłkach?
 > Insulina, pochodne sulfonylomocznika
 
 ---
+
+
+## Egzamin 2-termin 13.07.2023 (dodane)
+
+### 2T2023 · 1
+
+Lek przeciwcukrzycowy, parenteralne (np domięśniowo) podanie, zmniejsza glukoneogenezę, spowalnia apetyt
+
+> [!success]- Odpowiedź
+> liraglutyd
+
+---
+### 2T2023 · 2
+
+```quiz
+Mechanizm tiazydów - jak wytłumaczysz mechanizm działania niepożądanego i trzeba było zaznaczyć fałszywe
+- coś o kanaliku zbiorczym Na K retencja wody i sodu (wzrost wymiany Na+ w kanaliku zbiorczym)
+- zmnijeszone wydalanie kwasu moczowego – dna moczanowa
++ chyba to z alkalazą hipochlorową
+- hiperglikemia – zmniejszone wydzielanie insuliny
+```
+
+---
+### 2T2023 · 3
+
+Wybrać fałszywe DN GKS – jaskra / wrzody /
+
+> [!success]- Odpowiedź
+> hipoglikemia
+
+---

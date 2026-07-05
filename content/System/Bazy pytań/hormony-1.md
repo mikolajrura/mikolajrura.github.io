@@ -83,3 +83,15 @@ lek stosowany w testach diagnostycznych wydolności podwzgórzowo-przysadkowej
 > GONADORELINA
 
 ---
+
+
+## Egzamin 2-termin 13.07.2023 (dodane)
+
+### 2T2023 · 1
+
+Z BAZY: Niżej wymienione twierdzenia dotyczące leków stosowanych w nadczynności tarczycy są prawdziwe z wyjątkiem: a.     propylotiouracyl jest lekiem tyreostatycznym i preferowanym w I trymestrze ciąży *(fałszywe byłoby z tiamazolem)* b.     propranolol powoduje zwolnienie konwersji obwodowej T4 do T3 c.     do działań niepożądanych tyreostatyków należą hepatotoksyczność i mielotoksyczność
+
+> [!success]- Odpowiedź
+> d. 	celem stosowania lewotyroksyny jest zmniejszenie troficznego wpływu TSH na gruczoł tarczowy (sprzężenie zwrotne dodatnie) –
+
+---

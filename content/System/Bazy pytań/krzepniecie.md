@@ -95,3 +95,31 @@ Etamsylat można w ciąży bo kategoria
 > A
 
 ---
+
+
+## Egzamin 2-termin 13.07.2023 (dodane)
+
+### 2T2023 · 1
+
+Dlaczego leki przeciwpłytkowe IIa/IIIb mają przewagę nad innymi przeciwpłytkowymi
+
+> [!success]- Odpowiedź
+> Działają dłużej bo blokują wiązanie fibrynogenu z receptorem niezależnie od czynników aktywujących płytki
+
+---
+### 2T2023 · 2
+
+Jaki lek inny doustny można podać delikwentowi co po heparynie dostał jakichś ostrych zaburzeń hemolitycznych. – dalteparyna /
+
+> [!success]- Odpowiedź
+> warfaryna
+
+---
+### 2T2023 · 3
+
+Fałszywe o lekach przeciwzakrzepowych
+
+> [!success]- Odpowiedź
+> alteplaza jest lekiem przeciwpłytkowym
+
+---

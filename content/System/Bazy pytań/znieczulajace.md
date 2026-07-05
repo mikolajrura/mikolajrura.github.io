@@ -763,3 +763,28 @@ EMLA -co to? lidokaina z czyms, mieszanina eutektyczna, krem z lidokaina i prilo
 > lek w postaci kremu lub plastrów, zawierający lidokainę i prylokainę, który miejscowo znieczula skórę
 
 ---
+
+
+## Egzamin 2-termin 13.07.2023 (dodane)
+
+### 2T2023 · 1
+
+```quiz
+Z BAZY: Zaznacz fałszywą odp
+- podtlenek azotu - silnie p/bólowo, łagodne znieczulenie, euforyzujące – blokuje NMDA,AMPA, 5HT3 [jest git]
++ cisatrakurium – hepatotoksyczny? Drgawkotwórczy [git], uwalnianie histaminy,wzrost ciśnienia śródgałkowego [ wypierają acetylocholinę z połączeń z płytką nerwową +     blokuje rec. N + NIE działają p.bólowo + drgawkotwórczy + CHYBA OBNIŻA ciśn. Środgałkowe]         🡪 to chyba w takim razie jest fałsz
+- ketamina- antagonista NMDA, przeciwbólowy, znieczulenie dysocjacyjne (krótki sen i powrót do świadomości), nastawienie konczyń, oczopląc, halucynacje, wzrost ciśnienia śródgałkowego, wzrost przepływu mózgowego
+- Thiopental, propofol *[szybkie wybudzanie]*, etomidat *[hamuje kortyzol]*   - ALL 3 szybki początek dział. I krótkie działanie
+- toksyna botulinowa – degradacja pecherzyka z acetylocholina [ git ]
+- bupiwakaina - fast in slow out, najbardziej kardiotoksyczna, ale dobrze tolerowana
+```
+
+---
+### 2T2023 · 2
+
+Jaki lek pobudza receptory glicynowe, blokuje NMDA, blokuje przewodnictwo potasowe
+
+> [!success]- Odpowiedź
+> izofluran
+
+---

@@ -114,3 +114,25 @@ wskaż prawidłowe (tam chyba było pytanie i błędne):\
 > Opioidy wywołują senność i spadek koncentracji
 
 ---
+
+
+## Egzamin 2-termin 13.07.2023 (dodane)
+
+### 2T2023 · 1
+
+```quiz
+Buprenorfina charakterystyka i zaznacz prawidłowe/fałszywe chuj wie
++ że stosujemy ją w plastrach + tabletki podjęzykowe
+- działa agonistyczno-antag
+- wybija morfinę z połączeń \= silniej wiąże się z receptorem typu mi  działa silniej niż morfina, szybkie i długotrwałe działanie pból, można zamiast metadonu, nie hamuje czynności skurczowej macicy
+```
+
+---
+### 2T2023 · 2
+
+Stosowanie jakiego leku w napadzie astmy spowoduje drżenia mięśni, nierówne bicie serca i ból w klatce piersiowej: a.     Ipratropium b
+
+> [!success]- Odpowiedź
+> Salbutamolu
+
+---

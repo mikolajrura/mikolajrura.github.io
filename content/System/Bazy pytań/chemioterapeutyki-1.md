@@ -712,3 +712,23 @@ antybiotyk działa na atypowe i ma szerszy zakres niż podobne do niego antybiot
 > ketolidy
 
 ---
+
+
+## Egzamin 2-termin 13.07.2023 (dodane)
+
+### 2T2023 · 1
+
+Która grupa antybiotyków wywołuje zespół Stevensa-Johnsona i Leylla a.     cefalosporyny b.     penicyliny c.     fluorochinologny d.     markolidy e
+
+> [!success]- Odpowiedź
+> sulfonamidy
+
+---
+### 2T2023 · 2
+
+Najszerszy zakres działania mają penicyliny półsyntetyczne (w pytniu chodziło, że co można na gram +/-, wewnątrz i poza szpitalne): a.     karba b
+
+> [!success]- Odpowiedź
+> ureido
+
+---

@@ -75,3 +75,55 @@ Które prawdziwe o nitroglicerynie (tu było kilka do wyboru?) A.  Stosowana pod
 > prawidłowe a i e
 
 ---
+
+
+## Egzamin 2-termin 13.07.2023 (dodane)
+
+### 2T2023 · 1
+
+Który lek nie spowoduje hipotonii
+
+> [!success]- Odpowiedź
+> werapamil
+
+---
+### 2T2023 · 2
+
+Działa jak nitraty ale nie rozwija się tolerancja a
+
+> [!success]- Odpowiedź
+> molsidomina
+
+---
+### 2T2023 · 3
+
+Lek X hamuje beta-oksydacje kwasów tłuszczowych, nasila utlenienie glukozy, zmniejsza zużycie tleniu dla syntezy ATP, redukuje kwasicę. Lek X to
+
+> [!success]- Odpowiedź
+> a.     Trimetazydyna
+
+---
+### 2T2023 · 4
+
+Pytania typu wskaż nieprawidłowy mechanizm do leku: np
+
+> [!success]- Odpowiedź
+> a. werapamil - blokuje kanał Na/Cl
+
+---
+### 2T2023 · 5
+
+Prawdziwe o beta blokerach – było że stosuje się w dusznicy bolesnej i były 2 różne opisy dotyczące szczegółów  🡪
+
+> [!success]- Odpowiedź
+> odp. Wskazane w dławicy spowodowanej wysiłkiem
+
+---
+### 2T2023 · 6
+
+Czego nie zastosujesz na dławice Printzmetala
+
+> [!success]- Odpowiedź
+> metoprololu
+
+---

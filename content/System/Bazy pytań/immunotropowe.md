@@ -47,3 +47,15 @@ Lek na neutropenię: <!-- --> a
 > filgrastym
 
 ---
+
+
+## Egzamin 2-termin 13.07.2023 (dodane)
+
+### 2T2023 · 1
+
+Lek stosowany w raku nerki wpływający na syntezę czynnika wzrostu naczyniowo[1]śródbłonkowego (VEGF), którego mechanizm działania opiera się na hamowaniu kinaz mTOR to: a.     pimekrolimus b.     takrolimus c.     metyloprednizolon
+
+> [!success]- Odpowiedź
+> d.     temsirolimus
+
+---

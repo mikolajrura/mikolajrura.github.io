@@ -92,3 +92,31 @@ Prawda o fibrtatach: A.  Silnie obniżają LDL B
 > słabo obniżają LDL
 
 ---
+
+
+## Egzamin 2-termin 13.07.2023 (dodane)
+
+### 2T2023 · 1
+
+Atorwastatyna interakcje z jakim lekiem
+
+> [!success]- Odpowiedź
+> zwiększa poziom itrakonazolu
+
+---
+### 2T2023 · 2
+
+Jaki jest mechanizm leków przeciwwirusowych, które powodują DN takie jak hiperlipidemia, hiperdystrofia czy coś - inhibitory proteaz /
+
+> [!success]- Odpowiedź
+> NNRTI – nienukleozydowe inhibitory odwrotnej transktyptazy
+
+---
+### 2T2023 · 3
+
+Działanie statyn jest najlepiej wyrażone
+
+> [!success]- Odpowiedź
+> a.  silnym obniżeniem poziomu LDL
+
+---

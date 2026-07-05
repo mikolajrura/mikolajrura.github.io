@@ -55,3 +55,15 @@ pytanie z numerkami o nlzp, zaznaczyć prawdziwe, odp chyba 3, 4, 5
 > kwas acetylosalicylowy hamuje COX1 i COX2, meloksykam jest wzglednie selektywnym inhibitorem COX2, jakis koksyb jest selektywnym inhibitorem COX2 celekoksyb
 
 ---
+
+
+## Egzamin 2-termin 13.07.2023 (dodane)
+
+### 2T2023 · 1
+
+Jakie działanie przwciwhistaminowych nie jest pozareceptorowe, albo jest pozareceptorowe: było TdP, skrócenie QT…
+
+> [!success]- Odpowiedź
+> (pozarec. Będą: TdP \= wydłużenie QT i dział. Przeciwzapalne)
+
+---

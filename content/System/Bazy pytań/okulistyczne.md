@@ -278,3 +278,15 @@ Zaznaczyć lek stosowany w jaskrze
 > B-adrenolityki, A2-agoniści, Inh. anhydrazy węglanowej, Prostaglandyny, Paraysmypatykomimetyki, Leki osmotyczne
 
 ---
+
+
+## Egzamin 2-termin 13.07.2023 (dodane)
+
+### 2T2023 · 1
+
+Który z niżej wymienionych leków z grupy NLPZ można stosować w kroplach ocznych w zapaleniu przedniego odcinka gałki ocznej oraz po operacji usunięcia zaćmy?
+
+> [!success]- Odpowiedź
+> a.     diklofenak
+
+---

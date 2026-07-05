@@ -1554,3 +1554,58 @@ podanie klemastyny dożylnie o czym trzeba pamiętać, wskaż nieprawdziwe
 ```
 
 ---
+
+
+## Egzamin 2-termin 13.07.2023 (nieprzypisane)
+
+### 2T2023 · 1
+
+```quiz
+Zaznacz fałsz o laktulozie (leczenie zaparć)
++ nie powoduje wzdęć (to jej DN)
+- wskazana u osób z niewydolnością
+- wskazana w encefalopatii wątrobowej [P]
+- dostępna w postaci syropu (?)
+```
+
+---
+### 2T2023 · 2
+
+Lek stosowany w ChAD hamujący przemianę trifosforanu inozytolu (IP3) do inozytolu wpływający też na GABA-A, DA i NA, to
+
+> [!success]- Odpowiedź
+> a.
+
+---
+### 2T2023 · 3
+
+Z BAZY : Czemu leki powodują TdP
+
+> [!success]- Odpowiedź
+> blokują kanały potasowe
+
+---
+### 2T2023 · 4
+
+Działania niepożądane metoklopramidu na dłuższą metę objemują
+
+> [!success]- Odpowiedź
+> objawy pozapiramidowe i nadmierne wydzielanie prolaktyny
+
+---
+### 2T2023 · 5
+
+Mechanizm rywastygminy
+
+> [!success]- Odpowiedź
+> inhibitor acetylocholinoesterazy
+
+---
+### 2T2023 · 6
+
+Kiedy stosowanie kwasu foliowego nie ma sensu
+
+> [!success]- Odpowiedź
+> przy stosowaniu metotreksatu
+
+---

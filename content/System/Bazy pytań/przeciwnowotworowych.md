@@ -47,3 +47,15 @@ Stosowana w raku płuc i pęcherza, głównym DN jest nefrotoksyczność i utrat
 > cisplatyna
 
 ---
+
+
+## Egzamin 2-termin 13.07.2023 (dodane)
+
+### 2T2023 · 1
+
+Wskaż lek należący do grupy antymetabolitów, który może być stosowany przeciwnowotworowo i immunosupresyjnie a.     windezyna b.     karmustyna c.     temozolamid d.     topotekan e
+
+> [!success]- Odpowiedź
+> metotreksat
+
+---

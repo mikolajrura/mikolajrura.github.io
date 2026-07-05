@@ -756,3 +756,18 @@ Wskaż czy zdania są prawdziwe czy fałszywe: 1. Tolkapon zapobiega - **przeksz
 ```
 
 ---
+
+
+## Egzamin 2-termin 13.07.2023 (dodane)
+
+### 2T2023 · 1
+
+```quiz
+Wypisane leki (na Parkinsona) i wskazać prawidłowy mechanizm
+- bromokryptyna działa jako antagonista rec. D2 *(nie bo agonista)*
+- pirybedyl i ropinirol blokują rec. D2 i D3 i są stosowane na Parkinsona *(nie bo aktywują)*
+- lek x i jest cholinolitykiem *(nie bo cholinergiczny)*
++ amantadyna zwiększa przepływ dopaminy
+```
+
+---

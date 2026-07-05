@@ -69,3 +69,15 @@ Famotydyna- prawda (była wśród odp ze nieselektywnie h2 blokuje i nie wpływa
 > rabeprazol - nieodwracalny IPP, który działa 24h i podaje się go na czczo
 
 ---
+
+
+## Egzamin 2-termin 13.07.2023 (dodane)
+
+### 2T2023 · 1
+
+Dlaczego IPP stosujemy 30 min przed jedzeniem
+
+> [!success]- Odpowiedź
+> stosować 1⁄2 h przed posiłkiem (posiłek aktywuje pompy protonowe) – zazwyczaj rano przed śniadaniem – 1/24h; Szybkie wchłanianie do krwi i transport do kanalików wydzielniczych komórek okładzinowych
+
+---

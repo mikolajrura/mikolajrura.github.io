@@ -129,3 +129,15 @@ Jakiego działanie NIE wykazuje digoksyna? a
 > batmotropowe ujemne
 
 ---
+
+
+## Egzamin 2-termin 13.07.2023 (dodane)
+
+### 2T2023 · 1
+
+Opis adenozyny ze słowem klucz – asystolia + że działa 5-10 sekund, podanie i.v
+
+> [!success]- Odpowiedź
+> adenozyna
+
+---

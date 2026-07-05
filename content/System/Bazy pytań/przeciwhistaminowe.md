@@ -186,3 +186,40 @@ Zastosowanie i mechanizm fałszywie A.  Ketotifen-stabilizacja mastocytow- zapal
 > Loratadyna-blokada h1-we wstrząsie
 
 ---
+
+
+## Egzamin 2-termin 13.07.2023 (dodane)
+
+### 2T2023 · 1
+
+Leki przeciwhistaminowe blokują receptory serotoninowe. Powoduje to suchość w ustach. Która część zdania jest prawdziwa
+
+> [!success]- Odpowiedź
+> oba zdania są prawdziwe bez zależności przyczynowo-skutkowej
+
+---
+### 2T2023 · 2
+
+```quiz
+Antagonizm kompetycyjny
+- nalokson i loratadyna???
+- Nalokson + suksametonium *(odpada bo suksametonium to agonista)*
++ Suksametonium + coś (-)
+- Nalokson + coś
+- Coś na F ale nie pamiętam (może famotydyna) z I terminu :
+- suksametonium i klonidyna
+- rupatadyna i nalokson
+- cetyryzyna i atropina
+- fentanyl i zufenopril
+- omeprazol i flutikazon z egzaminu 27.06.22: nalokson i bilastyna * antagoniści kompetycyjni: dabigatran, biwalirudyna, akarboza, cymetydyna, famotydyna, ranitydyna, atropina, biperyden, solifenacyna, tamsulozyna, tamoksyfen, i chyba Cetyryzyna, Lewocetyryzyna, Loratadyna, Desloratadyna, Feksofenadyna, Bilastyna, Rupatadyna*
+```
+
+---
+### 2T2023 · 3
+
+Który lek p.histaminowy I generacji działa najdłużej
+
+> [!success]- Odpowiedź
+> klemastyna
+
+---

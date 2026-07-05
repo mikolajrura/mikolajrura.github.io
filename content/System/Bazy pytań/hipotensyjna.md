@@ -110,3 +110,42 @@ Bezwzględne przeciwskazania do antykoncepcji (które nie jest chyba) a.  Zakrze
 > porfiria, migreny
 
 ---
+
+
+## Egzamin 2-termin 13.07.2023 (dodane)
+
+### 2T2023 · 1
+
+```quiz
+Zaznacz co nie jest przeciwwskazaniem bezwzględnym dla antykoncepcji
+- przy marskości wątroby
+- jak działają
++ porfiria, migrena (migrena jest względnym)
+- porfiria z czymś jeszcze * wskazaniem dla spironolaktonu, eplerenonu są brzęki na tle wtórnego hiperaldosteronizmu (marskość wątroby)* * bezwzgl. P.wskazania dla antykoncepcyjnych: choroba zakrzepowo-zatorowa, ch. Wieńcowa, umiarkowane i ciężkie nadciśnienie, hiperlipidemia, czynna choroba wątroby, porfiria, rozpoznanie lub podejrzenie nowotworu*
+```
+
+---
+### 2T2023 · 2
+
+Czego nie można w ciąży (były podane mechanizmy)
+
+> [!success]- Odpowiedź
+> IACE (leku blokującego konwertazę angiotensyny)
+
+---
+### 2T2023 · 3
+
+Wskaż lek stosowany w leczeniu nadciśnienia tętniczego, który obniża ciśnienie tętnicze na skutek działania chrono- i inotropowego ujemnego z jednoczesną  aktywnością wazodylatacyjną
+
+> [!success]- Odpowiedź
+> nebiwolol
+
+---
+### 2T2023 · 4
+
+Kobiecie w ciąży nie wolno podać
+
+> [!success]- Odpowiedź
+> a. leku blokującego konwertaze angiotensyny
+
+---

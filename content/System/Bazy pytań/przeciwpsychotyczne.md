@@ -791,3 +791,15 @@ lek działa przeciwpsychotycznie i w małych dawkach sedatywnie (?), jaki to lek
 > arypiprazol
 
 ---
+
+
+## Egzamin 2-termin 13.07.2023 (dodane)
+
+### 2T2023 · 1
+
+Z BAZY: Klasyczne neuroleptyki mogą wywoływać wszystkie niżej wymienione działania niepożądane, oprócz
+
+> [!success]- Odpowiedź
+> a.
+
+---

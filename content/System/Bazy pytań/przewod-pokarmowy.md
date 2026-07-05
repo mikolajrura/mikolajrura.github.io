@@ -377,3 +377,23 @@ Trimebutyna - fałsz A
 > Antagonista enlefalinowych
 
 ---
+
+
+## Egzamin 2-termin 13.07.2023 (dodane)
+
+### 2T2023 · 1
+
+Jakie DN nie pasuje do antag. układu współczulnego - biegunka/ spadek ciśnienia
+
+> [!success]- Odpowiedź
+> Albo
+
+---
+### 2T2023 · 2
+
+Który lek stosujemy w stanach skurczowych dróg żółciowych
+
+> [!success]- Odpowiedź
+> drotaweryna
+
+---

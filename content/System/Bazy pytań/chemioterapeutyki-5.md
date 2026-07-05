@@ -364,3 +364,23 @@ Reakcję disulfiramową powoduje
 > ketokonazol
 
 ---
+
+
+## Egzamin 2-termin 13.07.2023 (dodane)
+
+### 2T2023 · 1
+
+Lek na grypę
+
+> [!success]- Odpowiedź
+> oseltamiwir
+
+---
+### 2T2023 · 2
+
+Fałsz o acyklowirze
+
+> [!success]- Odpowiedź
+> działa przeciwbakteryjnie i przeciwwirusowo
+
+---

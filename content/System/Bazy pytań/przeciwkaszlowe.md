@@ -47,3 +47,23 @@ Jaki lek dla osoby z podrażnieniem żołądka i gęsta wydzielina (na kaszel): 
 > erdosteina
 
 ---
+
+
+## Egzamin 2-termin 13.07.2023 (dodane)
+
+### 2T2023 · 1
+
+Które leki pkaszlowe działają ośrodkowo
+
+> [!success]- Odpowiedź
+> butamirat
+
+---
+### 2T2023 · 2
+
+U pacjenta z zapaleniem błony górnych dróg oddechowych zalecono leczenie mukolityczne. Co można mu podać? (Chyba jeszcze było w pierwszym zdaniu, że gość ma zapalenie żołądka czy coś takiego) a.     Acetylocysteina b.     Kodeina
+
+> [!success]- Odpowiedź
+> c.     Erdosteina
+
+---

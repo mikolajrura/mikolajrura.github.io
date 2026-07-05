@@ -698,3 +698,15 @@ Zaznaczyć fałszywe: azytromycyna ma najdłuższy PAE, klarytromycyna może wyw
 > (oba zdania prawdziwe brak poprawnej odpowiedzi)
 
 ---
+
+
+## Egzamin 2-termin 13.07.2023 (dodane)
+
+### 2T2023 · 1
+
+Mechanizmem działania fluorochinolonów jest
+
+> [!success]- Odpowiedź
+> a.
+
+---

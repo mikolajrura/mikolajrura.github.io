@@ -460,3 +460,15 @@ Pytanie o teryparatyd
 > nasila działanie osteoklastów
 
 ---
+
+
+## Egzamin 2-termin 13.07.2023 (dodane)
+
+### 2T2023 · 1
+
+Jaki lek dajemy, żeby zapobiegać osteoporozie spowodowanej GSK
+
+> [!success]- Odpowiedź
+> bisfosfoniany
+
+---

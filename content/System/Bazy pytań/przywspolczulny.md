@@ -1635,3 +1635,39 @@ jak działa rywastygmina
 > inhibitor AChE i BChE
 
 ---
+
+
+## Egzamin 2-termin 13.07.2023 (dodane)
+
+### 2T2023 · 1
+
+Jak nie działa digoksyna – cholinolityk / symantyko / B i D (-) /
+
+> [!success]- Odpowiedź
+> Batmotropowo +
+
+---
+### 2T2023 · 2
+
+Jakiś lek (nie było jaki) stosuje się w diagnostyce przy oczach i dlaczego jest on lepszy niż atropina
+
+> [!success]- Odpowiedź
+> działa szybciej i krócej
+
+---
+### 2T2023 · 3
+
+Który lek NIE powoduje wysuszenia błony śluzowej nosa
+
+> [!success]- Odpowiedź
+> oksybutynina
+
+---
+### 2T2023 · 4
+
+Substancja X jak pilokarpina, ale nowsza, do diagnozy dna oka i pytanie jak działa – (pewnie chodzi o tropikamid)
+
+> [!success]- Odpowiedź
+> a)szybciej i krócej
+
+---
