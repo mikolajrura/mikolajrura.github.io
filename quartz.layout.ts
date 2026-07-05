@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "mikolajrura (github)": "https://github.com/mikolajrura/mikolajrura.github.io",
-      "built with quartz 4.0": "https://quartz.jzhao.xyz/",
+      "built with quartz v4.5.2 © 2026": "https://quartz.jzhao.xyz/",
     },
   }),
 }
