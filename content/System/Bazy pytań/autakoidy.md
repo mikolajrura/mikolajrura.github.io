@@ -10,7 +10,7 @@ sekcja: autakoidy
 > Pytania z egzaminu 2-termin 13.07.2023, zroutowane po lekach/tematach.
 
 
-## Egzamin 2-termin 13.07.2023 (dodane)
+## Egzamin 2-termin 13.07.2023
 
 ### 2T2023 · 1
 
