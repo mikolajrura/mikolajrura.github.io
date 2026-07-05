@@ -16,13 +16,16 @@ function escapeAttr(s: string): string {
 
 const css = `
 .mol-container {
-  background: #000000;
+  background: transparent;
   border-radius: 8px;
   padding: 12px 16px 16px;
   margin: 12px 0;
   user-select: none;
   position: relative;
+  /* Carbon bonds/labels use currentColor -> follow the theme */
+  color: #1a1a1a;
 }
+:root[saved-theme=dark] .mol-container { color: #ffffff; }
 .mol-svg-wrapper {
   display: flex;
   justify-content: center;
@@ -64,13 +67,18 @@ const ATOM_COLOURS = {
 };
 const DRAW_DETAILS = JSON.stringify({
   width: 650, height: 500, bondLineWidth: 1.2,
-  backgroundColour: [0,0,0,1], atomColourPalette: ATOM_COLOURS,
+  backgroundColour: [0,0,0,0], clearBackground: false, atomColourPalette: ATOM_COLOURS,
   addAtomIndices: false, addBondIndices: false, addStereoAnnotation: false,
   explicitMethyl: false, padding: 0.15,
 });
 
 function patchSvgBackground(svg) {
-  return svg.replace(/fill:#ffffff[^"]*"/gi, 'fill:#000000"').replace(/fill:white[^"]*"/gi, 'fill:black"');
+  // Drop any opaque white background rect, then make white bonds/labels (carbon)
+  // follow the theme via currentColor (see .mol-container colour rules in CSS).
+  return svg
+    .replace(/fill:#ffffff[^"]*"/gi, 'fill:none"')
+    .replace(/fill:white[^"]*"/gi, 'fill:none"')
+    .replace(/#ffffff/gi, 'currentColor');
 }
 function autoSize(svg, containerWidth) {
   const vbMatch = svg.match(/viewBox="([^"]+)"/);
@@ -83,7 +91,12 @@ function autoSize(svg, containerWidth) {
   return svg.replace(/width="[^"]*"/, 'width="' + w + '"').replace(/height="[^"]*"/, 'height="' + h + '"');
 }
 async function svgToPngBlob(svgEl) {
-  const data = new XMLSerializer().serializeToString(svgEl);
+  // currentColor won't resolve in a detached SVG, so pin the carbon colour
+  // to the active theme on a clone before rasterising.
+  const clone = svgEl.cloneNode(true);
+  const isDark = document.documentElement.getAttribute("saved-theme") === "dark";
+  clone.style.color = isDark ? "#ffffff" : "#1a1a1a";
+  const data = new XMLSerializer().serializeToString(clone);
   const blob = new Blob([data], { type: "image/svg+xml;charset=utf-8" });
   const url = URL.createObjectURL(blob);
   const img = new Image();
