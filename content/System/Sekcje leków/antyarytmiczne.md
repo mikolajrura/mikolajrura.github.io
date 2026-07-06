@@ -9,6 +9,17 @@ kind: sekcja
 > [!info] Sekcja 19
 > Wróć do [[mastersheet|Mastersheet]]. Pytania: [[System/Bazy pytań/antyarytmiczne|Pytania — Leki antyarytmiczne i w niewydolności serca]].
 
+
+### Leki antyarytmiczne
+
+
+Jest to grupa substancji, która ma na celu leczyć zaburzenia związane z rytmem serca poprzez blokady konkretnych struktur w komórkach serca (kardiomiocyty i pacemakery). 
+
+### Klasyfikacja wg Vaughana Williamsa
+
+
+![[vaughan_williams_potencjal_czynnosciowy.svg|600]]
+
 ## Leki
 
 - [[lidokaina|Lidokaina]]
