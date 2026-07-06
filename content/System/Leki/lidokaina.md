@@ -1,7 +1,11 @@
 ---
-title: "Lidokaina"
+title: Lidokaina
 tags:
   - lek
+aliases:
+  - lignocaine
+  - lidocaine
+  - Xylocaine
 ---
 
 > [!info] Szybkie fakty
@@ -12,6 +16,11 @@ CCN(CC)CC(=O)NC1=C(C=CC=C1C)C
 ```
 
 ## Mechanizm działania
+
+
+
+
+
 
 ## Wskazania
 
