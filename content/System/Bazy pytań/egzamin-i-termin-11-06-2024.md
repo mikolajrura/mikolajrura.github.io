@@ -13,7 +13,7 @@ tags:
 
 ```quiz
 Wskaż nieprawidłowe twierdzenie dotyczące izoniazydu:
-- jego długotrwałe stosowanie wymaga kontroli okulistycznej z uwagi na ryzyko uszkodzenia siatkówki
++ jego długotrwałe stosowanie wymaga kontroli okulistycznej z uwagi na ryzyko uszkodzenia siatkówki
 - szybkość unieczynniania (acetylacji) tego leku jest osobniczo zmienna i genetycznie uwarunkowana
 - wykazuje działanie bakteriobójcze w stosunku do prątków gruźlicy
 - neurotoksyczne działanie izoniazydu można zmniejszyć przez suplementację witaminy B6
@@ -24,16 +24,11 @@ Wskaż nieprawidłowe twierdzenie dotyczące izoniazydu:
 ### Pytanie 2
 
 ```quiz
-ciprofloksacyna
+Mechanizm działania ciprofloksacyny:
 - wiązanie cząsteczki RNA transportującego izoleucynę
-- hamowanie gyrazy DNA
++ hamowanie gyrazy DNA
 - hamowanie polimeryzacji peptydoglikanu
 - zależna od pH redukcja grupy nitrowej do aktywnych metabolitów toksycznych względem białek i DNA drobnoustrojów
-- 1 - c, 2 - a, 3 - a, 4 - b
-- 1 - c, 2 - d, 3 - a, 4 - b
-- 1 - b, 2 - a, 3 - d, 4 - c
-- 1 - b, 2 - c, 3 - d, 4 - a
-- 1 - a, 2 - d, 3 - c, 4 - b
 ```
 
 ---
@@ -41,7 +36,7 @@ ciprofloksacyna
 
 ```quiz
 Wskazania do zastosowania digoksyny
-- niewydolności skurczowej lewej komory
++ niewydolności skurczowej lewej komory
 - wczesnym zawale serca
 - częstoskurcz komorowy
 - blok przedsionkowo komorowy
@@ -52,11 +47,11 @@ Wskazania do zastosowania digoksyny
 
 ```quiz
 7-letnia dziewczynka z mukowiscydozą została przyjęta do Szpitalnego Ośrodka Ratunkowego (SOR) z objawami infekcji dolnego odcinka układu oddechowego wywołanego przez bakterie Gram ujemne. Podejrzewano między innymi udział Pseudomonas aeruginosa. Który z antybiotyków byłby najbardziej odpowiedni dla tej chorej?
-- oksacylina (chyba nie działa na P.a)
+- oksacylina
 - klindamycyna
 - tikarcylina
-- ceftazydym (na P.a ale nie u dzieci I-rzut?)
-- amoksycylina z kwasem klawulanowym (chyba nie działa na P.a)
++ ceftazydym
+- amoksycylina z kwasem klawulanowym
 ```
 
 ---
@@ -67,7 +62,7 @@ Flukonazol w porównaniu z ketokonazolem charakteryzuje się:
 - wydalaniem w mniejszym stopniu zależnym od czynności nerek
 - spektrum działania obejmującym także dermatofity
 - wchłanianiem z przewodu pokarmowego w większym stopniu zależnym od pH soku żołądkowego
-- lepszą penetracją do ośrodkowego układu nerwowego (OUN)
++ lepszą penetracją do ośrodkowego układu nerwowego (OUN)
 - silniejszym wpływem hamującym aktywność enzymów związanych z cytochromem P450
 ```
 
@@ -75,47 +70,48 @@ Flukonazol w porównaniu z ketokonazolem charakteryzuje się:
 ### Pytanie 6
 
 ```quiz
-5. Wskaż prawdziwe twierdzenie dotyczące fentanylu:
-- wskazany u chorych z czynnością oddechową <10 oddechów/min b. metabolizowany w wątrobie do toksycznych metabolitów
+Wskaż prawdziwe twierdzenie dotyczące fentanylu:
+- wskazany u chorych z czynnością oddechową <10 oddechów/min
+- metabolizowany w wątrobie do toksycznych metabolitów
 - przeciwwskazany w terapii bólu ostrego
 - metabolizowany w wątrobie do czynnych metabolitów
-- jest stosowany najczęściej przezskórnie pod postacią systemów transdermalnych
++ jest stosowany najczęściej przezskórnie pod postacią systemów transdermalnych
 ```
 
 ---
 ### Pytanie 7
 
 ```quiz
-Pacjentka ma NS i stosuje antacida i powodują nieskuteczność leków na NS, które poprawne:
-- zadna odpowiedz
+Pacjentka ma NS i stosuje antacida, które powodują nieskuteczność / pogorszenie leczenia NS. Które twierdzenie poprawne:
+- żadna odpowiedź
 - stosowanie Al i Mg
-- stosowanie Caco3 - powoduje hiperkalcemie i zmniejsza prace serca
+- stosowanie CaCO3 - powoduje hiperkalcemię i zmniejsza pracę serca
 - coś z glinem
-- stosuje Na2CO3
++ stosuje Na2CO3
 ```
 
 ---
 ### Pytanie 8
 
 ```quiz
-31-letnia kobieta ciężarna uskarża się na czeste bole Glowy o niewielkim nasileniu. Lekarz poradził jej aby unikała stosowania NLPZ dla łagodzenia tej dolegliwości, gdyż leki te:
-- Stosowane w ciąży mogą opóźnić zamknięcie przewodu Bottala u plodu
+31-letnia kobieta ciężarna uskarża się na częste bóle głowy o niewielkim nasileniu. Lekarz poradził jej aby unikała stosowania NLPZ dla łagodzenia tej dolegliwości, gdyż leki te:
+- Stosowane w ciąży mogą opóźnić zamknięcie przewodu Botalla u płodu
 - Mogą prowadzić do zależności fizycznej u ciężarnej
-- Zwiększają ryzyko krwotoku i powikłań krwotocznych u płodu w czasie porodu
++ Zwiększają ryzyko krwotoku i powikłań krwotocznych u płodu w czasie porodu
 - Są nieskuteczne w leczeniu bólów głowy w trakcie ciąży
-- Mogą nasilać czynność skurczowa macicy
+- Mogą nasilać czynność skurczową macicy
 ```
 
 ---
 ### Pytanie 9
 
 ```quiz
-lek powoduje fototoksyczność, tendinopatie, chondrotoksycznośc - jakas floksacyna -> fluorochinolony 39 Dziecko bierze leukotrieny, zaznacz
-- Wypisane 3 albo 4 receptory (LTC4 , LTD4 i LTE4 ) w odpowiedzi było jeszcze LTB4 więc nie wiem czy dobrze
-- Wypisany 1 receptor
-- Brane 1 raz dziennie
-- Wydalane niezmienione z moczem
-- Ostatnie, że hamuje syntezę L4 chyba
+Dziecko przyjmuje lek z grupy antagonistów leukotrienów (montelukast). Zaznacz prawidłowe:
+- blokuje receptory dla LTB4, LTC4, LTD4 i LTE4
+- blokuje tylko jeden receptor leukotrienowy
++ przyjmowany raz na dobę
+- wydalany w postaci niezmienionej z moczem
+- działa poprzez hamowanie syntezy leukotrienów
 ```
 
 ---
@@ -124,7 +120,7 @@ lek powoduje fototoksyczność, tendinopatie, chondrotoksycznośc - jakas floksa
 ```quiz
 Fałsz o zasadach używania lewotyroksyny:
 - 30 min przed śniadaniem
-- podaje się z witaminą C
++ podaje się z witaminą C
 - dawki się dostosowuje
 - dawki od mniejszych do większych
 - bierze się na czczo
@@ -137,7 +133,7 @@ Fałsz o zasadach używania lewotyroksyny:
 podanie klemastyny dożylnie o czym trzeba pamiętać, wskaż nieprawdziwe
 - ze powoduje silna hipotonie
 - powoduje senność
-- dziala 24h wiec podanie 1x/doba
++ dziala 24h wiec podanie 1x/doba
 ```
 
 ---
@@ -145,21 +141,21 @@ podanie klemastyny dożylnie o czym trzeba pamiętać, wskaż nieprawdziwe
 
 ```quiz
 Który z niżej wymienionych leków z grupy NLPZ można stosować w kroplach ocznych w zapaleniu przedniego odcinka gałki ocznej oraz po operacji usunięcia zaćmy?
-- nepafenak
++ nepafenak
 - nabumeton
 - etofenamat
 - naproksen
-- piroksykam 54 Inh. Neuraminidazy wybrać -oseltamiwir
+- piroksykam
 ```
 
 ---
 ### Pytanie 13
 
 ```quiz
-Przeciwhistaminowy 2 generacji do oka- olopatadyna 56 który lek w chorobie jednobiegunowej na coś tam coś tam i na spadek masy ciała nie wiem czy o to chodzi ale w bulimii są SSRI podawane 57 co się stosuje w zatruciach związkami fosforoorganicznymi coś takiego Leczenie: reaktywatory AChE - pralidoksym, obidoksym 58 prawda o agonistach 59 które statyny można brać niezależnie od pory dnia -> atorwastatyna i rosuwastatyna 60 stosowanie SSRI z trazodonem wybierz prawdziwe, w odp było coś że trazodon zwiększa wchlanianie ssri, trazodon działa uspokajająco a ssri aktywizująco, zadna odp nie jest prawdziwa i jeszcze jakieś dwie - poprawna będzie że trazodon nasennie a SSRI aktywizująco, trazodon nie działa na wchłanianie tylko moze coś tam robic z metabolizmem SSRI 61. (...) blokada rec. rianodynowy w retikulum sarkoplazmatycznego w komórkach dot. kanału:
+Blokada receptora rianodynowego w retikulum sarkoplazmatycznym komórek dotyczy kanału:
 - sodowego
 - potasowego
-- wapniowego
++ wapniowego
 ```
 
 ---

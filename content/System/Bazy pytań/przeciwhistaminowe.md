@@ -55,7 +55,7 @@ Wybierz główne cechy chlorprotiksenu
 - Działa silnie uspokajająco
 - Przecipsychotycznie
 - Przeciwhistaminowe i muskarynowe
-- Wszystkie wymienione odp d
++ Wszystkie wymienione odp d
 ```
 
 ---
@@ -103,7 +103,7 @@ Do działań niepoż. po karbamazepinie należy
 - nudności. wymioty, utrata łaknienia
 - zawroty głowy, anemia aplastyczna, alergie
 - agranulocytoza
-- wszystkie prawidłowe
++ wszystkie prawidłowe
 ```
 
 ---

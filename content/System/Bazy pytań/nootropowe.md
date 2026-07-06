@@ -752,7 +752,7 @@ Wskaż czy zdania są prawdziwe czy fałszywe: 1. Tolkapon zapobiega - **przeksz
 - Wysokie ciśnienie może zwiększać ryzyko choroby Alzheimera
 - Geny są jedynie częściowo odpowiedzialne za wystąpienie Alzheimera
 - Ostatecznie chory będzie musiał być pod stałą opieką
-- Wszystkie prawdziwe
++ Wszystkie prawdziwe
 ```
 
 ---

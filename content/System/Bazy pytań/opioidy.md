@@ -54,7 +54,7 @@ Wskaż działania niepożądane bisfosfonianów podanych dożylnie
 Działanie obwodowe opioidów obejmują niżej wymienione z wyjątkiem
 - opóźniają opróżnianie żołądka - skurcz odźwiernika
 - kurczą mięśnie gładkie i zwieracze dróg moczowych
-- zwiększają napięcie mięśni gładkich naczyń krwionośnych
++ zwiększają napięcie mięśni gładkich naczyń krwionośnych
 - hamują czynność motoryczną i zwiększają napięcie mięśni gładkich przewodu pokarmowego
 - kurczą zwieracze dróg żółciowych
 ```
@@ -66,7 +66,7 @@ Działanie obwodowe opioidów obejmują niżej wymienione z wyjątkiem
 O opioidach
 - tapentadol 2-3x słabszy od morfiny, w bólu neuropatycznym i ze hamuje wychwyt zwrotny NA
 - oksykodon - działanie podobne do morfiny, w bólach trzewnych
-- tramadol - nie łączyć z TLPD i SSRI
++ tramadol - nie łączyć z TLPD i SSRI
 - buprenorfina - stosowana w bólu ostrym i przewlekłym i że trzeba duze dawki antagonisty - naloksonu
 ```
 

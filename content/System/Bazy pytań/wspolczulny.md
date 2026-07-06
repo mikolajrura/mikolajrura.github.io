@@ -30,7 +30,7 @@ Lek X zmniejsza opor naczyniowy, obniza cisnienie statyczne w gruczole krokowym,
 Wskaż **fałszywe** zestawienie selektywny agonista-receptor
 - fenylefryna - a1
 - dobutamina - B1
-- ksylometazolina - a2
++ ksylometazolina - a2
 - salmeterol - B2
 - salbutamol - B2
 ```

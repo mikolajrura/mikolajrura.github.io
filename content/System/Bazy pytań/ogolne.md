@@ -1550,7 +1550,7 @@ Prawdą o montelukascie: A.  Dziala na receptor... B
 podanie klemastyny dożylnie o czym trzeba pamiętać, wskaż nieprawdziwe
 - ze powoduje silna hipotonie
 - powoduje senność
-- dziala 24h wiec podanie 1x/doba
++ dziala 24h wiec podanie 1x/doba
 ```
 
 ---

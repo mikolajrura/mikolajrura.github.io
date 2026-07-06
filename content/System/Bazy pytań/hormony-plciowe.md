@@ -524,7 +524,7 @@ reprogesterony - była odpowiedź A i C
 
 ```quiz
 Wskaż prawidłowe zastosowanie lek-zastosowanie
-- klomifen - niepłodność kobiet
++ klomifen - niepłodność kobiet
 - gestageny - zaburzenia miesiączki
 - lewonorgestrel - antykoncepcja hormonalna
 - medroksyprogesteron - rak nerki

@@ -28,7 +28,7 @@ Karbachol -- zaznaczyć fałszywą odpowiedź
 ```quiz
 O karbacholu prawdziwe są wymienione stwierdzenia, **z wyjątkiem**
 - pobudza częściowo cholinergiczne receptory nikotynowe
-- jest reaktywatorem acetylocholinoesterazy
++ jest reaktywatorem acetylocholinoesterazy
 - nasila perystaltykę przewodu pokarmowego
 - obniża ciśnienie śródgałkowe
 - może powodować ślinotok

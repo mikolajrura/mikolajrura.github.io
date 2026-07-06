@@ -89,7 +89,7 @@ Które z poniższych twierdzeń opisujących pseudoefedrynę jest prawdziwe?
 
 ```quiz
 Wskaż prawidłowe efekty pobudzenia receptorów układu **współczulnego**
-- B1 - spadek częstości i siły skurczów serca
++ B1 - wzrost częstości i siły skurczów serca
 - B1 - spadek wydzielania reniny w nerkach
 - B1 - zwiększone uwalnianie wazopresyny w przysadce mózgowej
 - a2 - (jako autoreceptor) pobudza uwalnianie noradrenaliny

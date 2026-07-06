@@ -958,7 +958,7 @@ Niewłaściwe połączenie LEK -- MIEJSCE DZIAŁANIA
 - tiotropium -- oskrzela
 - karbachol -- oko
 - riwastygmina -- OUN
-- wszystkie prawidłowe
++ wszystkie prawidłowe
 ```
 
 ---
@@ -1139,10 +1139,10 @@ Substancja X jak pilokarpina, ale nowsza, do diagnozy dna oka i pytanie jak dzia
 
 ```quiz
 Jakie są objawy pobudzenia układu przywspółczulnego?
-- Skurcz mięśni gładkich oskrzeli
-- Zwężenie źrenicy
-- Nasilenie perystaltyki jelit
-- Wzrost napięcia mięśni gładkich
++ Skurcz mięśni gładkich oskrzeli
++ Zwężenie źrenicy
++ Nasilenie perystaltyki jelit
++ Wzrost napięcia mięśni gładkich
 ```
 
 ---

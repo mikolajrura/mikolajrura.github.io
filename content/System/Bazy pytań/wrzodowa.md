@@ -52,7 +52,7 @@ Do najczęstszych działań niepożądanych z niżej wymienionych kotrymoksazolu
 
 ```quiz
 Główne niepożądane doustnych bisfosfonianów
-- Owrzodzenia przełyku i czegoś tam
++ Owrzodzenia przełyku i czegoś tam
 - Bóle głowy
 - Leukopenia
 ```

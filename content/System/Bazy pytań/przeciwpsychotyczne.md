@@ -864,7 +864,7 @@ Fałsz o klozapinie- należy do neuroleptyków typowych (klasycznych)
 Charakterystycznymi działaniami niepożądanymi klasycznych neuroleptyków są wszystkie poniżej, oprócz
 - dyskinezy i dystonie
 - złośliwy zespół neuroleptyczny
-- agranulocytoza
++ agranulocytoza
 - tachykardia
 - hiperprolaktynemia
 ```

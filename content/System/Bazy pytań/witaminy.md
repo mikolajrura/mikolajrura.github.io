@@ -41,7 +41,7 @@ Tetracykliny są przeciwwskazane dla kobiet w ciąży i dzieci poniżej 12. roku
 ```quiz
 Fałsz o zasadach używania lewotyroksyny
 - 30 min przed śniadaniem
-- podaje się z witaminą C
++ podaje się z witaminą C
 - dawki się dostosowuje
 - dawki od mniejszych do większych
 - bierze się na czczo

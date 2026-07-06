@@ -381,7 +381,7 @@ Wskaż nieprawidłowe stwierdzenie dot. nomegestrolu **
 ```quiz
 Fałsz o połączeniu estrogenów i gestagenów w HTZ
 - W tym połączeniu stosowane są tylko naturalne estrogeny
-- Nie mogą być stosowane u kobiet z zachowaną macicą
++ Nie mogą być stosowane u kobiet z zachowaną macicą
 - Nie mogą być stosowane u kobiet po histerektomii
 - Niwelują uderzenia gorąca
 - Mogą być stosowane tylko u kobiet do 60 roku życia

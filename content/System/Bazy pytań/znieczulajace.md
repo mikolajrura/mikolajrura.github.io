@@ -740,10 +740,10 @@ suksametonium powoduje następujące działania niepożądane za wyjątkiem
 ### Dodatkowe 1
 
 ```quiz
-Lek znieczulający działający na receptory glicynowe, NMDA, kanały potasowe:\ a.propofol\ b. podtlenek azotu\ **c. izofluran**
+Lek znieczulający działający na receptory glicynowe, NMDA, kanały potasowe: a) propofol b) podtlenek azotu c) izofluran
 - Propofol --- działa m.in. na receptory GABA, glicynowe, wpływa na kanały potasowe
 - Podtlenek azotu --- antagonista NMDA, ale nie na kanały potasowe
-- Izofluran --- działa na kanały jonowe, ale mniej na glicynowe i NMDA
++ Izofluran --- działa na kanały jonowe, glicynowe i NMDA
 ```
 
 ---

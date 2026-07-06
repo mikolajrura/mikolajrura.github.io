@@ -616,7 +616,7 @@ Zaznaczyć fałszywą odpowiedź o azlocylinie
 Do niżej wymienionych antybiotyków stosowanych w zapaleniu opon mózgowo rdzeniowych przede wszystkim należą
 - izoksazolilopenicyliny
 - cefalosporyny IIgen
-- aminopenicyliny
++ aminopenicyliny
 - cefalosporyny I gen
 ```
 

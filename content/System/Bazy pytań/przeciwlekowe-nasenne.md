@@ -639,10 +639,10 @@ Czym może skutkować kilkutygodniowe podawanie efedryny
 
 ```quiz
 Przyporządkuj poprawne, podstawowe mechanizmy działania do wymienionych leków przeciwlękowych i nasennych: 1) Alprazolam - **A** 2) Hydroksyzyna - **C** 3) Zolpidem - **B** 4) Buspiron - **D**
-- agonista receptorów GABA-A, powoduje wzrost częstotliwości otwierania kanału chlorkowego
-- agonista receptorów BDZ1
-- antagonista receptorów 5-HT2 i 3
-- agonista receptora 5-HT1A
+- (A) agonista receptorów GABA-A, powoduje wzrost częstotliwości otwierania kanału chlorkowego
+- (B) agonista receptorów BDZ1
+- (C) antagonista receptorów 5-HT2 i 3
+- (D) agonista receptora 5-HT1A
 ```
 
 ---
@@ -650,10 +650,10 @@ Przyporządkuj poprawne, podstawowe mechanizmy działania do wymienionych leków
 
 ```quiz
 Przyporządkuj poprawne mechanizmy działania do wymienionych leków p/lękowych 1) Buspiron **D** 2) Diazepam **A** 3) Fenobarbital **B** 4) Hydroksyzyna **C**
-- agonista receptorów GABA-A, powoduje wzrost częstotliwości otwierania kanału chlorkowego
-- agonista receptorów GABA-A, powoduje wydłużenie czasu otwierania kanału chlorkowego
-- antagonista receptorów 5-HT2 i 3
-- agonista receptora 5-HT1A
+- (A) agonista receptorów GABA-A, powoduje wzrost częstotliwości otwierania kanału chlorkowego
+- (B) agonista receptorów GABA-A, powoduje wydłużenie czasu otwierania kanału chlorkowego
+- (C) antagonista receptorów 5-HT2 i 3
+- (D) agonista receptora 5-HT1A
 ```
 
 ---
@@ -661,10 +661,10 @@ Przyporządkuj poprawne mechanizmy działania do wymienionych leków p/lękowych
 
 ```quiz
 Dopasuj lek z mechanizmem działania: 1) Oksazepam **A** 2) Buspiron **D** 3) Nitrazepam **A** 4) Zopiklon **B**
-- Agoniści receptora GABA A, powoduje zwiększenie częstości otwierania kanału chlorkowego
-- Agonista receptora BDZ1
-- Antagonista 5HT2 i 3
-- Agonista receptora 5HT1a
+- (A) Agoniści receptora GABA A, powoduje zwiększenie częstości otwierania kanału chlorkowego
+- (B) Agonista receptora BDZ1
+- (C) Antagonista 5HT2 i 3
+- (D) Agonista receptora 5HT1a
 ```
 
 ---

@@ -804,7 +804,7 @@ Fałsz o topiramacie
 - napady częściowe
 - nasila tworzenie kamieni nerkowych
 - wzrost stężenia fenytoiny
-- zwiększa łaknienie i przyrost masy ciała( bo zmniejsza mase ciala)
++ zwiększa łaknienie i przyrost masy ciała( bo zmniejsza mase ciala)
 ```
 
 ---
