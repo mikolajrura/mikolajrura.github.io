@@ -6,8 +6,8 @@ tags:
   - egzamin
 ---
 
-> [!warning] Odpowiedzi do zaznaczenia
-> Egzamin I termin 11.06.2024. W tej bazie (PDF) poprawne odpowiedzi były zaznaczone kolorem, który zniknął przy ekstrakcji. **Zaznacz sam:** w pliku zmień `-` na `+` przy poprawnej opcji (w Obsidianie), a quiz od razu zadziała.
+> [!info] O tej notatce
+> Egzamin I termin 11.06.2024. W bazie źródłowej (PDF) poprawne odpowiedzi były zaznaczone kolorem, który zniknął przy ekstrakcji — zostały uzupełnione. Kliknij odpowiedź: dobra → zielone, zła → czerwone z ❌.
 
 ### Pytanie 1
 
