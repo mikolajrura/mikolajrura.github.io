@@ -1437,3 +1437,50 @@ Pacjentowi z ciężką depresją i nadciśnieniem przepisano wenlafaksynę. Któ
 > duloksetyna
 
 ---
+
+
+## Egzamin 1-termin 2023 (dodane, recall)
+
+### 1T2023 · 1
+
+4. Sertralina
+
+> [!success]- Odpowiedź
+> 4. Sertralina
+
+---
+### 1T2023 · 2
+
+tramadol do SSRI interakcje
+
+> [!success]- Odpowiedź
+> tramadol do SSRI interakcje
+
+---
+
+## Przeniesione (poprawiony routing)
+
+### Pytanie 13
+
+```quiz
+Mechanizm działania p/depresyjnego litu opiera się na
+- hamowaniu powstawania trifosforanu inozytolu
+- zwiększeniu aktywności ATP-azy sodowo potasowej
+- działaniu hamującym na przekaźnictwo dopaminowe
+- hamowaniu przekaźnictwa noradrenergicznego
++ nasileniu funkcji neuronów serotoninowych i uwalnianiu 5HT
+```
+
+---
+### Pytanie 14
+
+```quiz
+Mechanizm działania p/depresyjnego soli litu opiera się na
+- hamowaniu powstawania trifosforanu inozytolu
+- zwiekszeniu aktywności ATP-azy sodowo potasowej
++ nasileniu funkcji neuronów serotoninowych i uwolnieniu 5-HT
+- hamowaniu przekaźnictwa noradrenergicznego
+- działaniu hamującym przekaźnictwo dopaminowe
+```
+
+---

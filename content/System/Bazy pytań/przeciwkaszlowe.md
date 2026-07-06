@@ -67,3 +67,39 @@ U pacjenta z zapaleniem błony górnych dróg oddechowych zalecono leczenie muko
 > c.     Erdosteina
 
 ---
+
+
+## Egzamin 1-termin 2023 (dodane, recall)
+
+### 1T2023 · 1
+
+Leki na kaszel
+
+> [!success]- Odpowiedź
+> wskazać które działania niepożądane są nieprawidłowo dopasowane (kodeina, lewodropropizyna, acetylocysteina, ipratropium plus jeszcze jeden którego nie pamiętam)
+
+---
+### 1T2023 · 2
+
+1. Rosnąco przeciwkaszlowe
+
+> [!success]- Odpowiedź
+> 1. Rosnąco przeciwkaszlowe
+
+---
+### 1T2023 · 3
+
+B. Zwiększonego działania przeciwkaszlowego
+
+> [!success]- Odpowiedź
+> B. Zwiększonego działania przeciwkaszlowego
+
+---
+### 1T2023 · 4
+
+52. fałszywe zastosowanie
+
+> [!success]- Odpowiedź
+> dekstrometorfan na kaszel przy astmie
+
+---

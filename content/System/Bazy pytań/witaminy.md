@@ -59,3 +59,15 @@ O lewotyroksynie, wskazać
 > fałszywe- że z witaminą c
 
 ---
+
+
+## Egzamin 1-termin 2023 (dodane, recall)
+
+### 1T2023 · 1
+
+6. Kiedy suplementowac witaminę B6- Terapia izoniazydem
+
+> [!success]- Odpowiedź
+> 6. Kiedy suplementowac witaminę B6- Terapia izoniazydem
+
+---

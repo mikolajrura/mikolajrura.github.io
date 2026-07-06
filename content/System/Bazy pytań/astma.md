@@ -73,17 +73,6 @@ Do skutków aktywacji układu przywspółczulnego należy/ą: **
 ```
 
 ---
-### Pytanie 6
-
-```quiz
-Jakie są objawy pobudzenia układu przywspółczulnego?
-- Skurcz mięśni gładkich oskrzeli
-- Zwężenie źrenicy
-- Nasilenie perystaltyki jelit
-- Wzrost napięcia mięśni gładkich
-```
-
----
 ### Pytanie 7
 
 ```quiz
@@ -348,5 +337,91 @@ Pacjentka przyjmuje wziewnie B-mimetyk przez 6tyg, rozbolała ją głowa i przyj
 
 > [!success]- Odpowiedź
 > przyjmowanie tylko b-mimetyku i powstanie tolerancji
+
+---
+
+## Egzamin 1-termin 2023 (dodane, recall)
+
+### 1T2023 · 2
+
+18. Wskaż fałszywe- salmeterol jest lekiem krótko działającym rozszerzającym oskrzela
+
+> [!success]- Odpowiedź
+> 18. Wskaż fałszywe- salmeterol jest lekiem krótko działającym rozszerzającym oskrzela
+
+---
+### 1T2023 · 4
+
+14. Wskaż nieprawidłowe
+
+> [!success]- Odpowiedź
+> Fenoterol należy do LABA (nie bo on SABA)
+
+---
+### 1T2023 · 5
+
+4. Powodują skurcz oskrzeli
+
+> [!success]- Odpowiedź
+> 4. Powodują skurcz oskrzeli
+
+---
+### 1T2023 · 6
+
+Fałsz o jakieś na astmę
+
+> [!success]- Odpowiedź
+> Fałsz o jakieś na astmę
+
+---
+### 1T2023 · 7
+
+1. Fenoterol ( laba ) dajemy w ataku ( i to trzeba było zaznaczyć bo Saba )
+
+> [!success]- Odpowiedź
+> 1. Fenoterol ( laba ) dajemy w ataku ( i to trzeba było zaznaczyć bo Saba )
+
+---
+### 1T2023 · 9
+
+● Pobudzenie B2
+
+> [!success]- Odpowiedź
+> rozszerzenie oskrzeli
+
+---
+### 1T2023 · 10
+
+43. fałszywe, że salmeterol należy do SABA
+
+> [!success]- Odpowiedź
+> 43. fałszywe, że salmeterol należy do SABA
+
+---
+### 1T2023 · 11
+
+44. fałszywe, że fenoterol należy do LABA
+
+> [!success]- Odpowiedź
+> 44. fałszywe, że fenoterol należy do LABA
+
+---
+### 1T2023 · 12
+
+46.który z GKS jest najsilniejszy?
+
+> [!success]- Odpowiedź
+> deksametazon
+
+---
+
+## Przeniesione (poprawiony routing)
+
+### przeniesione
+
+45. o teofilinie
+
+> [!success]- Odpowiedź
+> że ma niski zakres terapeutyczny, nie można jako I rzutu, że w małych dawkach jest przeciwzapalne (to było chyba dobre)
 
 ---

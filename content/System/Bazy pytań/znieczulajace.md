@@ -788,3 +788,31 @@ Jaki lek pobudza receptory glicynowe, blokuje NMDA, blokuje przewodnictwo potaso
 > izofluran
 
 ---
+
+
+## Egzamin 1-termin 2023 (dodane, recall)
+
+### 1T2023 · 1
+
+13. Nieprawidłowe o znieczulających 1) ze blokowanie potencjału czynnościowego przez nasilenie przekaznictwa Na
+
+> [!success]- Odpowiedź
+> chyba ta odp 2) wzrost lipofilnosci powoduje wzrost siły działania 4) wzrost lipofilnosci umożliwia łatwiejsze zmniejszenie toksycznosci za pomocą dawki 5) wzrost dawki- szybszy początek działania i dłuższe działanie
+
+---
+### 1T2023 · 2
+
+1. Suksametonium i klonidyna
+
+> [!success]- Odpowiedź
+> 1. Suksametonium i klonidyna
+
+---
+### 1T2023 · 3
+
+82.Leki znieczulajace miejscowo LZM (dobrze rozpuszczają się w tluszach, zwiększenie początkowej dawki pozwoli szybciej zadziałać i silniej, przez to że rozpuszczają się w tłuszczach
+
+> [!success]- Odpowiedź
+> 82.Leki znieczulajace miejscowo LZM (dobrze rozpuszczają się w tluszach, zwiększenie początkowej dawki pozwoli szybciej zadziałać i silniej, przez to że rozpuszczają się w tłuszczach
+
+---

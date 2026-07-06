@@ -98,21 +98,6 @@ Wybierz objawy niepożądane środków niedepolaryzujących
 ```
 
 ---
-### Pytanie 8
-
-```quiz
-Charakterystycznymi działaniami niepożądanymi klasycznych neuroleptyków są wszystkie poniżej, oprócz
-- dyskinezy i dystonie
-- złośliwy zespół neuroleptyczny
-- agranulocytoza
-- tachykardia
-- hiperprolaktynemia
-```
-
----
-
-## Pytania z samą odpowiedzią (recall)
-
 ### Recall 1
 
 które połączenie mogło spowodować hiperkaliemię
@@ -130,7 +115,6 @@ Jakiego działanie NIE wykazuje digoksyna? a
 
 ---
 
-
 ## Egzamin 2-termin 13.07.2023
 
 ### 2T2023 · 1
@@ -139,5 +123,32 @@ Opis adenozyny ze słowem klucz – asystolia + że działa 5-10 sekund, podanie
 
 > [!success]- Odpowiedź
 > adenozyna
+
+---
+
+## Egzamin 1-termin 2023 (dodane, recall)
+
+### 1T2023 · 1
+
+Dopasowanka
+
+> [!success]- Odpowiedź
+> wystarczyło wiedzieć że adenozyna powoduje przejściowa asystolie
+
+---
+### 1T2023 · 3
+
+Adenozyna na co działa
+
+> [!success]- Odpowiedź
+> otwiera kanały potasowe, blokuje kanały wapniowe zmniejsza szybkość przewodzenia w węzłach, obniża ciśnienie tętnicze (rozszerzenie naczyń), INOTROPOWO UJEMNIE
+
+---
+### 1T2023 · 4
+
+57.przypasować do opisów
+
+> [!success]- Odpowiedź
+> Mg i te leki antyarytmiczne (klasyfikacje)
 
 ---

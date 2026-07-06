@@ -803,3 +803,74 @@ Z BAZY: Klasyczne neuroleptyki mogą wywoływać wszystkie niżej wymienione dzi
 > a.
 
 ---
+
+
+## Egzamin 1-termin 2023 (dodane, recall)
+
+### 1T2023 · 1
+
+Klozapina fałsz że należy do klasycznych
+
+> [!success]- Odpowiedź
+> Klozapina fałsz że należy do klasycznych
+
+---
+### 1T2023 · 2
+
+Co nie jest dz. niepożądanym neuroleptyków klasycznych- agranulocytoza
+
+> [!success]- Odpowiedź
+> Co nie jest dz. niepożądanym neuroleptyków klasycznych- agranulocytoza
+
+---
+### 1T2023 · 3
+
+Fałsz o klozapinie- należy do neuroleptyków typowych (klasycznych)
+
+> [!success]- Odpowiedź
+> Fałsz o klozapinie- należy do neuroleptyków typowych (klasycznych)
+
+---
+### 1T2023 · 4
+
+11. Wskaz falszywe zestawienie a . Klozapina
+
+> [!success]- Odpowiedź
+> klasyczny neuroleptyk b. lewitacetam - nie ham cyp450 c. setralina powoduje dysfunkcje seksualne d. Karbamazepina - stosowana w chorobie dwubiegunowej e. Aprazolam - przeciwlękowo
+
+---
+### 1T2023 · 5
+
+24. Klozapina -> falsz, ze nalezy do klasycznych neuroleptyków
+
+> [!success]- Odpowiedź
+> 24. Klozapina -> falsz, ze nalezy do klasycznych neuroleptyków
+
+---
+### 1T2023 · 6
+
+39. fałszywe
+
+> [!success]- Odpowiedź
+> że klozapina należy do neuroleptyków klasycznych
+
+---
+
+## Przeniesione (poprawiony routing)
+
+### Pytanie 8
+
+```quiz
+Charakterystycznymi działaniami niepożądanymi klasycznych neuroleptyków są wszystkie poniżej, oprócz
+- dyskinezy i dystonie
+- złośliwy zespół neuroleptyczny
+- agranulocytoza
+- tachykardia
+- hiperprolaktynemia
+```
+
+---
+
+## Pytania z samą odpowiedzią (recall)
+
+---

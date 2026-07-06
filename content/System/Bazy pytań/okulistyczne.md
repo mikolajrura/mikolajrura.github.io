@@ -290,3 +290,15 @@ Który z niżej wymienionych leków z grupy NLPZ można stosować w kroplach ocz
 > a.     diklofenak
 
 ---
+
+
+## Egzamin 1-termin 2023 (dodane, recall)
+
+### 1T2023 · 1
+
+Najsilniejszy lek obniżający ciśnienie galkowe
+
+> [!success]- Odpowiedź
+> wymienione niektóre inh. anhydrazy węglanowej, latanoporst, fakolizyna (to nie było prawidłowe bo to na zaćmę), jakiś lek na B który chyba był prawidłowy xd BRYNZOLAMID
+
+---

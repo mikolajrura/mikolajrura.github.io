@@ -710,3 +710,135 @@ Mechanizmem działania fluorochinolonów jest
 > a.
 
 ---
+
+
+## Egzamin 1-termin 2023 (dodane, recall)
+
+### 1T2023 · 1
+
+Pytanie o lek z długim pae, 2 razy dziennie- fluorochinolony
+
+> [!success]- Odpowiedź
+> Pytanie o lek z długim pae, 2 razy dziennie- fluorochinolony
+
+---
+### 1T2023 · 2
+
+Czemu ketolidy działają lepiej od makrolidow
+
+> [!success]- Odpowiedź
+> łączenie się z podejdnostkami rybosomu w dwóch miejscach
+
+---
+### 1T2023 · 3
+
+Tetracykliny- fototokayczność
+
+> [!success]- Odpowiedź
+> Tetracykliny- fototokayczność
+
+---
+### 1T2023 · 4
+
+Fluorochinolony- nie wolno przed 18 rokiem życia
+
+> [!success]- Odpowiedź
+> Fluorochinolony- nie wolno przed 18 rokiem życia
+
+---
+### 1T2023 · 5
+
+Makrolidy- na baterie atypowe
+
+> [!success]- Odpowiedź
+> Makrolidy- na baterie atypowe
+
+---
+### 1T2023 · 6
+
+Linkozamidy- mają szerszy zakres działania niż makrolidy
+
+> [!success]- Odpowiedź
+> Linkozamidy- mają szerszy zakres działania niż makrolidy
+
+---
+### 1T2023 · 7
+
+2. Jaki lek możesz stosować równolegle z ibuprofenem? Coś w tym stylu i odpowiedzi
+
+> [!success]- Odpowiedź
+> metotreksat, cefalosporyna, fluorochinolon, kwas acetylosalicylowy, lek przeciwzakrzepowy
+
+---
+### 1T2023 · 8
+
+18. Lek na atypowe i stosowanie 2 razy w tyg i tendopatie
+
+> [!success]- Odpowiedź
+> fluorochinolony (kombinacja innych)
+
+---
+### 1T2023 · 9
+
+1 fluorochinolony
+
+> [!success]- Odpowiedź
+> 1 fluorochinolony
+
+---
+### 1T2023 · 10
+
+Że kateolidy mają mniejszy zakres niż makrolidy
+
+> [!success]- Odpowiedź
+> Że kateolidy mają mniejszy zakres niż makrolidy
+
+---
+### 1T2023 · 11
+
+1. Fluorochinolony
+
+> [!success]- Odpowiedź
+> 1. Fluorochinolony
+
+---
+### 1T2023 · 12
+
+19. Porownanie makrolidow i ketolidów (zakres, że ketolidy mają szerszy zakres bo łączą się z dwiema domenami i mają mniejsze powinowactwo do pompy
+
+> [!success]- Odpowiedź
+> 19. Porownanie makrolidow i ketolidów (zakres, że ketolidy mają szerszy zakres bo łączą się z dwiema domenami i mają mniejsze powinowactwo do pompy
+
+---
+### 1T2023 · 13
+
+27.Antybiotyki powodujące tendopatię
+
+> [!success]- Odpowiedź
+> fluorochinolony
+
+---
+### 1T2023 · 14
+
+33. przewaga ketolidów nad makrolidami
+
+> [!success]- Odpowiedź
+> że łączą się za pomocą 2 domen
+
+---
+### 1T2023 · 15
+
+34. inne pytanie
+
+> [!success]- Odpowiedź
+> wybrać fałszywe, że ketolidy mają węższy zakres niż makrolidy
+
+---
+### 1T2023 · 16
+
+MTX, przeciwzakrzepowe, cyklosporyna, fluorochinolony
+
+> [!success]- Odpowiedź
+> MTX, przeciwzakrzepowe, cyklosporyna, fluorochinolony
+
+---

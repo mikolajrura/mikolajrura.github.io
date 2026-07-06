@@ -539,3 +539,61 @@ Który lek wykorzystywany jest w antykoncepcji postkoitalnej?
 > LEWONORGESTREL
 
 ---
+
+
+## Egzamin 1-termin 2023 (dodane, recall)
+
+### 1T2023 · 1
+
+Jakie działania ma cyproteron
+
+> [!success]- Odpowiedź
+> Jakie działania ma cyproteron
+
+---
+### 1T2023 · 2
+
+wskazanie octanu Cyproteronu Stosowany u mężczyzn w nadmiernej pobudliwości płciowej, leczenie raka prostaty. U kobiet w objawach androgenizacji (nadmierne owłosienie, trądzik, łysienie androgenozależne).
+
+> [!success]- Odpowiedź
+> wskazanie octanu Cyproteronu Stosowany u mężczyzn w nadmiernej pobudliwości płciowej, leczenie raka prostaty. U kobiet w objawach androgenizacji (nadmierne owłosienie, trądzik, łysienie androgenozależne).
+
+---
+### 1T2023 · 3
+
+65. wskazania dla octanu cyproteronu i wybrać jedno fałszywe
+
+> [!success]- Odpowiedź
+> 65. wskazania dla octanu cyproteronu i wybrać jedno fałszywe
+
+---
+### 1T2023 · 4
+
+3.octan cyproteron
+
+> [!success]- Odpowiedź
+> C
+
+---
+### 1T2023 · 5
+
+c. działaniem ubocznym jest antykoncepcja,
+
+> [!success]- Odpowiedź
+> c. działaniem ubocznym jest antykoncepcja,
+
+---
+
+## Przeniesione (poprawiony routing)
+
+### przeniesione
+
+```quiz
+Zaznacz co nie jest przeciwwskazaniem bezwzględnym dla antykoncepcji
+- przy marskości wątroby
+- jak działają
++ porfiria, migrena (migrena jest względnym)
+- porfiria z czymś jeszcze * wskazaniem dla spironolaktonu, eplerenonu są brzęki na tle wtórnego hiperaldosteronizmu (marskość wątroby)* * bezwzgl. P.wskazania dla antykoncepcyjnych: choroba zakrzepowo-zatorowa, ch. Wieńcowa, umiarkowane i ciężkie nadciśnienie, hiperlipidemia, czynna choroba wątroby, porfiria, rozpoznanie lub podejrzenie nowotworu*
+```
+
+---

@@ -127,3 +127,66 @@ Czego nie zastosujesz na dławice Printzmetala
 > metoprololu
 
 ---
+
+
+## Egzamin 1-termin 2023 (dodane, recall)
+
+### 1T2023 · 1
+
+10. Starsza kobieta z niewydolnością serca hospitalizowana. Ustabilizowano ja. Zaczęła brac chyba werapamil i ponownie zaczęła mieć niewydolność. Jaki mechanizm był tego
+
+> [!success]- Odpowiedź
+> 10. Starsza kobieta z niewydolnością serca hospitalizowana. Ustabilizowano ja. Zaczęła brac chyba werapamil i ponownie zaczęła mieć niewydolność. Jaki mechanizm był tego
+
+---
+### 1T2023 · 2
+
+16. Gościu ma ChNS, bierze lek na bóle dławicowe, jakie DN może jeszcze powodować (bóle głowy dałam ale czy dobrze nie wiem xD)
+
+> [!success]- Odpowiedź
+> 16. Gościu ma ChNS, bierze lek na bóle dławicowe, jakie DN może jeszcze powodować (bóle głowy dałam ale czy dobrze nie wiem xD)
+
+---
+### 1T2023 · 3
+
+1. Podjęzykowe
+
+> [!success]- Odpowiedź
+> 1. Podjęzykowe
+
+---
+### 1T2023 · 4
+
+Najczęstsze działania niepożądane leku na niedokrwienie serca
+
+> [!success]- Odpowiedź
+> Najczęstsze działania niepożądane leku na niedokrwienie serca
+
+---
+### 1T2023 · 5
+
+54. jaki mechanizm ma werapamil
+
+> [!success]- Odpowiedź
+> blokowanie kanałów Ca coś tam typu L
+
+---
+### 1T2023 · 6
+
+83.o blokerach kanałów Ca2+ typu L
+
+> [!success]- Odpowiedź
+> mogą być stosowane w stabilnej dusznicy bolesnej, gdy nie można beta blokerów
+
+---
+
+## Przeniesione (poprawiony routing)
+
+### przeniesione
+
+Pacjent przy bólach dlawicowych bierze doraźnie lek który powoduje u niego
+
+> [!success]- Odpowiedź
+> odpowiedzi biegunka zaparcia bóle głowy i coś tam
+
+---

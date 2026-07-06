@@ -95,3 +95,47 @@ Z BAZY: Niżej wymienione twierdzenia dotyczące leków stosowanych w nadczynno�
 > d. 	celem stosowania lewotyroksyny jest zmniejszenie troficznego wpływu TSH na gruczoł tarczowy (sprzężenie zwrotne dodatnie) –
 
 ---
+
+
+## Egzamin 1-termin 2023 (dodane, recall)
+
+### 1T2023 · 1
+
+Pytanie 34
+
+> [!success]- Odpowiedź
+> GKS stosowane systemowo o bardzo silnym działaniu (deksametazon) maja jakie DN? Silnie hamują podwzgórze-przysadka-nadnercza
+
+---
+### 1T2023 · 2
+
+Tiamazol- nieprawidłowe wskazanie (tu była odpowiedź z niedoczynnością, bo taimazol jest w NADczynnosci)
+
+> [!success]- Odpowiedź
+> Tiamazol- nieprawidłowe wskazanie (tu była odpowiedź z niedoczynnością, bo taimazol jest w NADczynnosci)
+
+---
+### 1T2023 · 3
+
+Stosowanie silnych systemowo dawek GKS, np. Deksametazonu powoduje- zahamowanie osi podwórze-przysadka-nadnercza
+
+> [!success]- Odpowiedź
+> Stosowanie silnych systemowo dawek GKS, np. Deksametazonu powoduje- zahamowanie osi podwórze-przysadka-nadnercza
+
+---
+### 1T2023 · 4
+
+Pytanie o tiamazol na co nie jest i w odpowiedziach bylo na nieodczynnosc czyli to
+
+> [!success]- Odpowiedź
+> Pytanie o tiamazol na co nie jest i w odpowiedziach bylo na nieodczynnosc czyli to
+
+---
+### 1T2023 · 5
+
+3. W leczeniu gruczolaków przysadki mózgowej
+
+> [!success]- Odpowiedź
+> 3. W leczeniu gruczolaków przysadki mózgowej
+
+---

@@ -59,11 +59,35 @@ pytanie z numerkami o nlzp, zaznaczyć prawdziwe, odp chyba 3, 4, 5
 
 ## Egzamin 2-termin 13.07.2023 (dodane)
 
-### 2T2023 · 1
 
-Jakie działanie przwciwhistaminowych nie jest pozareceptorowe, albo jest pozareceptorowe: było TdP, skrócenie QT…
+
+## Egzamin 1-termin 2023 (dodane, recall)
+
+### 1T2023 · 2
+
+85. DN NLPZ
 
 > [!success]- Odpowiedź
-> (pozarec. Będą: TdP \= wydłużenie QT i dział. Przeciwzapalne)
+> 85. DN NLPZ
+
+---
+
+## Przeniesione (poprawiony routing)
+
+### przeniesione
+
+Z czym można stosować ibuprofen
+
+> [!success]- Odpowiedź
+> fluorchinolony, metotreksat, cyklosporyna, przeciwzakrzepowe, asa
+
+---
+
+### przeniesione
+
+49. które z działań farmakologicznych NIE powodują NLPZ
+
+> [!success]- Odpowiedź
+> coś z hipotonią ortostatyczną/spadkiem ciśnienia
 
 ---

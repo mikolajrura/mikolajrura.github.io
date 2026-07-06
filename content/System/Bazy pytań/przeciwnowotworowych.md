@@ -59,3 +59,39 @@ Wskaż lek należący do grupy antymetabolitów, który może być stosowany prz
 > metotreksat
 
 ---
+
+
+## Egzamin 1-termin 2023 (dodane, recall)
+
+### 1T2023 · 1
+
+Który lek jest inhibitorem angiogenezy bewacyzumab
+
+> [!success]- Odpowiedź
+> Który lek jest inhibitorem angiogenezy bewacyzumab
+
+---
+### 1T2023 · 2
+
+Lek hamujący angiogenezę
+
+> [!success]- Odpowiedź
+> wymienione leki biologiczne imatynib, worinostat, aflibercpet, bewacyzumab
+
+---
+### 1T2023 · 3
+
+53. fałszywe, że mesna jest stosowana tylko miejscowo
+
+> [!success]- Odpowiedź
+> 53. fałszywe, że mesna jest stosowana tylko miejscowo
+
+---
+### 1T2023 · 4
+
+66.jaki lek może specyficznie zablokować angiogenezę? bewacyzumab\
+
+> [!success]- Odpowiedź
+> 66.jaki lek może specyficznie zablokować angiogenezę? bewacyzumab\
+
+---

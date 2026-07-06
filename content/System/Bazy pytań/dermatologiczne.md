@@ -99,3 +99,87 @@ Który GKS można do oka, na skórę i systemowo (chyba
 > deksametazon
 
 ---
+
+
+## Egzamin 1-termin 2023 (dodane, recall)
+
+### 1T2023 · 1
+
+o skorze
+
+> [!success]- Odpowiedź
+> że octan cuyproteronu-skutek uboczny to antykoncepcja, nadtlenek benzoilu-odbarwia tkaniny, pzapalny, kwas azaleinowy-tylko na skore, tez p.zapalny, retinoidy- że wysusznsie skóry, skostnienie kostek jakie kobiety mogą brac subst na osteoporoze wszystkie oprócz: glikokortykosteroidy flasz, że ketolidy maja wezssy zakres niż makrolidy ze ketolidy lacza z dwoma punktami i mają wiekszepowinowactwo do czegoś co nie jest pwskazaniem lekow p.histaminowych 1 generacjj- szpik kostny o mnda-tabletki, heroina-leczenie specjalistyczne uzależnienia, marycha- brak objawów uzależnienia fizycznego, psylicybina-cos że dziwne efekty
+
+---
+### 1T2023 · 2
+
+Lek pwirusowy dermatologiczny, działa na HSV i G+ i G- i można stosować od 2 miesiąca
+
+> [!success]- Odpowiedź
+> kwas fusydowy...
+
+---
+### 1T2023 · 3
+
+17. 1Nadtlenek benzoilu
+
+> [!success]- Odpowiedź
+> barwi ubrania, Kwas azelainowy - miejscowo w trądziku różowatym, na przebarwienia, Izotiopryna - powoduje suchość skóry i śluzówek, podrażnienia, sprzyja eradykacji P. Acnes 2. Ewolokumab - przeciwciało na PCSK9
+
+---
+### 1T2023 · 4
+
+16. Lek stosowany w dermatologii, przeciwwirusowo na HSV, przeciwbakteryjnie na gram + i -, można u dzieci od 2 miesiąca /roku? Życia
+
+> [!success]- Odpowiedź
+> 16. Lek stosowany w dermatologii, przeciwwirusowo na HSV, przeciwbakteryjnie na gram + i -, można u dzieci od 2 miesiąca /roku? Życia
+
+---
+### 1T2023 · 5
+
+73. izotretynoina, nadtlenek benzoilu, octan i dopasować mechanizmy
+
+> [!success]- Odpowiedź
+> 73. izotretynoina, nadtlenek benzoilu, octan i dopasować mechanizmy
+
+---
+### 1T2023 · 6
+
+2.kwas azelainowy
+
+> [!success]- Odpowiedź
+> A
+
+---
+### 1T2023 · 7
+
+4.nadtlenek benzoilu
+
+> [!success]- Odpowiedź
+> B
+
+---
+### 1T2023 · 8
+
+(a. na trądzik, też na różowaty, niweluje przebarwienia, tylko miejscowo
+
+> [!success]- Odpowiedź
+> kwas azelainowy
+
+---
+### 1T2023 · 9
+
+b. barwi ubrania
+
+> [!success]- Odpowiedź
+> nadtlenek benzoilu
+
+---
+### 1T2023 · 10
+
+d.? coś do retinoidów chyba coś że keratolityczny)
+
+> [!success]- Odpowiedź
+> d.? coś do retinoidów chyba coś że keratolityczny)
+
+---

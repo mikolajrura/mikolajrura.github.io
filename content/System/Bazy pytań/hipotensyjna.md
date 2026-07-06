@@ -114,17 +114,6 @@ Bezwzględne przeciwskazania do antykoncepcji (które nie jest chyba) a.  Zakrze
 
 ## Egzamin 2-termin 13.07.2023 (dodane)
 
-### 2T2023 · 1
-
-```quiz
-Zaznacz co nie jest przeciwwskazaniem bezwzględnym dla antykoncepcji
-- przy marskości wątroby
-- jak działają
-+ porfiria, migrena (migrena jest względnym)
-- porfiria z czymś jeszcze * wskazaniem dla spironolaktonu, eplerenonu są brzęki na tle wtórnego hiperaldosteronizmu (marskość wątroby)* * bezwzgl. P.wskazania dla antykoncepcyjnych: choroba zakrzepowo-zatorowa, ch. Wieńcowa, umiarkowane i ciężkie nadciśnienie, hiperlipidemia, czynna choroba wątroby, porfiria, rozpoznanie lub podejrzenie nowotworu*
-```
-
----
 ### 2T2023 · 2
 
 Czego nie można w ciąży (były podane mechanizmy)
@@ -147,5 +136,168 @@ Kobiecie w ciąży nie wolno podać
 
 > [!success]- Odpowiedź
 > a. leku blokującego konwertaze angiotensyny
+
+---
+
+
+## Egzamin 1-termin 2023 (dodane, recall)
+
+### 1T2023 · 1
+
+Różnice w działaniach niepożądanych diuretyków pętlowych i tiazydowych (chyba hiperkalcemia)
+
+> [!success]- Odpowiedź
+> Różnice w działaniach niepożądanych diuretyków pętlowych i tiazydowych (chyba hiperkalcemia)
+
+---
+### 1T2023 · 2
+
+Metoprolol dożylnie co powoduje
+
+> [!success]- Odpowiedź
+> Metoprolol dożylnie co powoduje
+
+---
+### 1T2023 · 3
+
+Pytanie 26
+
+> [!success]- Odpowiedź
+> dopasuj prawidłowy lek hipotensyjny do grupy: prawidłowe lacydypina
+
+---
+### 1T2023 · 4
+
+Karwedilol
+
+> [!success]- Odpowiedź
+> że blokuje beta1 i alfa1
+
+---
+### 1T2023 · 5
+
+Lek blokujący alfa1 i działający na (agonista) 5HT1a
+
+> [!success]- Odpowiedź
+> urapidyl
+
+---
+### 1T2023 · 6
+
+Prawidłowe o tiazydowych w długiej terapii nadciśnienia że np zmniejszają rzut serca
+
+> [!success]- Odpowiedź
+> Prawidłowe o tiazydowych w długiej terapii nadciśnienia że np zmniejszają rzut serca
+
+---
+### 1T2023 · 7
+
+Hipokaliemia, hiponatremia, hiperkalcemia jaki lek
+
+> [!success]- Odpowiedź
+> hydrochlorotiazyd
+
+---
+### 1T2023 · 8
+
+Prawidłowe o DHP
+
+> [!success]- Odpowiedź
+> było jedno że powoduje hipotonię ortostatyczną a drugie że nie powoduja (nie wiem które XD)
+
+---
+### 1T2023 · 9
+
+8. Nebiwolol prawda
+
+> [!success]- Odpowiedź
+> 8. Nebiwolol prawda
+
+---
+### 1T2023 · 10
+
+1. Hipotonia
+
+> [!success]- Odpowiedź
+> 1. Hipotonia
+
+---
+### 1T2023 · 11
+
+8.Jakie są wspólne działania uboczne dla diuretyków pętlowych i tiazydowych
+
+> [!success]- Odpowiedź
+> 8.Jakie są wspólne działania uboczne dla diuretyków pętlowych i tiazydowych
+
+---
+### 1T2023 · 12
+
+9.Jaki jest mechanizm dzialania diuretyków tiazydowych (jak obniżają ciśnienie)- zmniejszenie objętości wyrzutowej serca, zmniejszenie oporów naczyniowych, nasilenie syntezy NO w śródbłonku
+
+> [!success]- Odpowiedź
+> 9.Jaki jest mechanizm dzialania diuretyków tiazydowych (jak obniżają ciśnienie)- zmniejszenie objętości wyrzutowej serca, zmniejszenie oporów naczyniowych, nasilenie syntezy NO w śródbłonku
+
+---
+### 1T2023 · 13
+
+3.   Jakieś leki/ klonidyna może
+
+> [!success]- Odpowiedź
+> 3.   Jakieś leki/ klonidyna może
+
+---
+### 1T2023 · 15
+
+58. różnica między IACE i sartanami
+
+> [!success]- Odpowiedź
+> 58. różnica między IACE i sartanami
+
+---
+### 1T2023 · 16
+
+60.jakiś człowiek stosował lek i miał hiperkaliemię, hipokalcemię itd
+
+> [!success]- Odpowiedź
+> lekiem tym był hydrochlorotiazyd
+
+---
+### 1T2023 · 17
+
+62. diuretyki tiazydowe działają na serce poprzez spadek obciążenia wstępnego
+
+> [!success]- Odpowiedź
+> 62. diuretyki tiazydowe działają na serce poprzez spadek obciążenia wstępnego
+
+---
+### 1T2023 · 18
+
+77.O inhibitorach konwertazy angiotensyny
+
+> [!success]- Odpowiedź
+> że zmniejszają obciążenia i trzeba monitorować kreatyninę
+
+---
+
+## Przeniesione (poprawiony routing)
+
+### przeniesione
+
+```quiz
+Mechanizm tiazydów - jak wytłumaczysz mechanizm działania niepożądanego i trzeba było zaznaczyć fałszywe
+- coś o kanaliku zbiorczym Na K retencja wody i sodu (wzrost wymiany Na+ w kanaliku zbiorczym)
+- zmnijeszone wydalanie kwasu moczowego – dna moczanowa
++ chyba to z alkalazą hipochlorową
+- hiperglikemia – zmniejszone wydzielanie insuliny
+```
+
+---
+
+### przeniesione
+
+Co spowoduje stosowanie taizydow
+
+> [!success]- Odpowiedź
+> i były różne opcje z zatrzymaniem kwasu moczowego, hiperkalcemią, hipokalemia, hipokalcemia, hiperglikemia, kwasica, zasadowica, nudności,wymioty
 
 ---

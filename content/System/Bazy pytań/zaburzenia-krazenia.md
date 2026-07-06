@@ -39,3 +39,15 @@ Którego leku nie stosuje się profilaktycznie gdy ma się więcej niż 3 napady
 > sumatryptan
 
 ---
+
+
+## Egzamin 1-termin 2023 (dodane, recall)
+
+### 1T2023 · 1
+
+Bo pytania z odpowiedziami w których była escyna, nicergolina, pentoksyfilina
+
+> [!success]- Odpowiedź
+> Bo pytania z odpowiedziami w których była escyna, nicergolina, pentoksyfilina
+
+---

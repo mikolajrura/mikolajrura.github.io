@@ -136,3 +136,199 @@ Stosowanie jakiego leku w napadzie astmy spowoduje drżenia mięśni, nierówne 
 > Salbutamolu
 
 ---
+
+
+## Egzamin 1-termin 2023 (dodane, recall)
+
+### 1T2023 · 1
+
+Do nieopioidowych leków przeciwbólowych nie należy
+
+> [!success]- Odpowiedź
+> buprenorfina
+
+---
+### 1T2023 · 2
+
+Loperamid-morfina-petydyna w tej kolejności rosnie lub maleje
+
+> [!success]- Odpowiedź
+> przenikanie do OUN, efekt zapierający,przeciwbolowy
+
+---
+### 1T2023 · 3
+
+31: który lek nieopioidowy jest stosowany w drabinie anagletycznej
+
+> [!success]- Odpowiedź
+> klonidyna, doksepina, coś tam.. buprenorfina (tu pytanie dotyczyło leki nieopioidowe stosowane oprócz i dlatego jest buprenorfina)
+
+---
+### 1T2023 · 4
+
+loperamid-> morfina -> pettdyna czy rośnie siła czy zmniejsza się dzialanie zapierające
+
+> [!success]- Odpowiedź
+> loperamid-> morfina -> pettdyna czy rośnie siła czy zmniejsza się dzialanie zapierające
+
+---
+### 1T2023 · 5
+
+Loperamid, morfina, petydyna uszeregowane:
+
+> [!success]- Odpowiedź
+> Loperamid, morfina, petydyna uszeregowane:
+
+---
+### 1T2023 · 6
+
+1. Ból głowy ( chyba prawidłowe )
+
+> [!success]- Odpowiedź
+> 1. Ból głowy ( chyba prawidłowe )
+
+---
+### 1T2023 · 7
+
+Było coś w stylu o drabinie analgetycznej nieopioidowe i co NIE jest w tym stosowane
+
+> [!success]- Odpowiedź
+> Było coś w stylu o drabinie analgetycznej nieopioidowe i co NIE jest w tym stosowane
+
+---
+### 1T2023 · 8
+
+Odpowiedzi to m.in. buprenorfina
+
+> [!success]- Odpowiedź
+> Odpowiedzi to m.in. buprenorfina
+
+---
+### 1T2023 · 9
+
+13. Pseudojednokrotne z opioidami
+
+> [!success]- Odpowiedź
+> 13. Pseudojednokrotne z opioidami
+
+---
+### 1T2023 · 10
+
+Oksykodon ból trzewny
+
+> [!success]- Odpowiedź
+> Oksykodon ból trzewny
+
+---
+### 1T2023 · 11
+
+17. Loperamid-morfina-pentazocyna( tego 3 nie jestem pewna) w jakiej kolejności są ustawione:
+
+> [!success]- Odpowiedź
+> 17. Loperamid-morfina-pentazocyna( tego 3 nie jestem pewna) w jakiej kolejności są ustawione:
+
+---
+### 1T2023 · 12
+
+C. Zmniejszonego działania przeciwbólowego
+
+> [!success]- Odpowiedź
+> C. Zmniejszonego działania przeciwbólowego
+
+---
+### 1T2023 · 13
+
+40. loperamid
+
+> [!success]- Odpowiedź
+> morfina - petydyna - są uszeregowane zgodnie z powinowactwem do OUN?
+
+---
+### 1T2023 · 14
+
+42. oksykodon, fentanyl, pentazocyna i coś
+
+> [!success]- Odpowiedź
+> dopasować mechanizmy do każdego
+
+---
+### 1T2023 · 15
+
+48.które z leków są stosowany przy zwalczaniu bólu ale są nieopioidowe
+
+> [!success]- Odpowiedź
+> wykluczyć chyba buprenorfinę (bo ona była jedynym opioidem tam)
+
+---
+### 1T2023 · 16
+
+51. fałszywe o tym, że morfina na kaszel i ma działanie obwodowe (bo ośrodkowe)
+
+> [!success]- Odpowiedź
+> 51. fałszywe o tym, że morfina na kaszel i ma działanie obwodowe (bo ośrodkowe)
+
+---
+### 1T2023 · 17
+
+76. Dopasowywanka z opioidami:
+
+> [!success]- Odpowiedź
+> 76. Dopasowywanka z opioidami:
+
+---
+### 1T2023 · 18
+
+●        tramadol
+
+> [!success]- Odpowiedź
+> ●        tramadol
+
+---
+### 1T2023 · 19
+
+●        buprenorfina
+
+> [!success]- Odpowiedź
+> ●        buprenorfina
+
+---
+### 1T2023 · 20
+
+●        morfina
+
+> [!success]- Odpowiedź
+> ●        morfina
+
+---
+### 1T2023 · 21
+
+●        oksykodon
+
+> [!success]- Odpowiedź
+> ●        oksykodon
+
+---
+### 1T2023 · 22
+
+●        wskazany w bólu trzewnym
+
+> [!success]- Odpowiedź
+> oksykodon
+
+---
+### 1T2023 · 23
+
+●        agonista rec mi (MOR)
+
+> [!success]- Odpowiedź
+> morfina, fentanyl
+
+---
+### 1T2023 · 24
+
+●        nie łączyć z lekami wpływającymi na serotonine bodajże
+
+> [!success]- Odpowiedź
+> tramadol
+
+---

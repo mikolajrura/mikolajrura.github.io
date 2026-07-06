@@ -1609,3 +1609,439 @@ Kiedy stosowanie kwasu foliowego nie ma sensu
 > przy stosowaniu metotreksatu
 
 ---
+
+
+## Egzamin 1-termin 2023 (nieprzypisane, recall)
+
+### 1T2023 · 1
+
+Prawda o werapamilu ze zmniejsza przebudowę serca chyba
+
+> [!success]- Odpowiedź
+> Prawda o werapamilu ze zmniejsza przebudowę serca chyba
+
+---
+### 1T2023 · 2
+
+DHP antagonista kanałów Ca
+
+> [!success]- Odpowiedź
+> DHP antagonista kanałów Ca
+
+---
+### 1T2023 · 3
+
+Jaki lek nie powoduje zatrzymania glukonezogenezy
+
+> [!success]- Odpowiedź
+> Jaki lek nie powoduje zatrzymania glukonezogenezy
+
+---
+### 1T2023 · 4
+
+Leki hamujące gp2/3 czy jak to tam było
+
+> [!success]- Odpowiedź
+> Leki hamujące gp2/3 czy jak to tam było
+
+---
+### 1T2023 · 5
+
+Mechanizm blokada 5h3 działa w wimiotach róznego pochodzenia
+
+> [!success]- Odpowiedź
+> setron
+
+---
+### 1T2023 · 6
+
++ Coś z prawdą o IACE
+
+> [!success]- Odpowiedź
+> + Coś z prawdą o IACE
+
+---
+### 1T2023 · 7
+
+mechanizm działania tianizydyny
+
+> [!success]- Odpowiedź
+> mechanizm działania tianizydyny
+
+---
+### 1T2023 · 8
+
+Które działanie niepożądane nie jest wspólne dla tiazydów i pętlowych
+
+> [!success]- Odpowiedź
+> hiperkalcemia
+
+---
+### 1T2023 · 9
+
+Mechanizm urapidylu
+
+> [!success]- Odpowiedź
+> Mechanizm urapidylu
+
+---
+### 1T2023 · 10
+
+Pobudzenie rec a2
+
+> [!success]- Odpowiedź
+> Pobudzenie rec a2
+
+---
+### 1T2023 · 11
+
+Co jest przeciwwskazaniem do stosowania antagonistów H1
+
+> [!success]- Odpowiedź
+> Co jest przeciwwskazaniem do stosowania antagonistów H1
+
+---
+### 1T2023 · 12
+
+Wskaż nieprawidłowe połączenie lek-mechanizm działania
+
+> [!success]- Odpowiedź
+> Wskaż nieprawidłowe połączenie lek-mechanizm działania
+
+---
+### 1T2023 · 13
+
+Wskaż nieprawidłowe połączenie lek- charakterystyka
+
+> [!success]- Odpowiedź
+> Wskaż nieprawidłowe połączenie lek- charakterystyka
+
+---
+### 1T2023 · 14
+
+GABA B d. Agonista alfa 2 e. Antagonista alfa 1
+
+> [!success]- Odpowiedź
+> GABA B d. Agonista alfa 2 e. Antagonista alfa 1
+
+---
+### 1T2023 · 15
+
+Dopasowywanka o metoprololu werapamilu adenozynie i siarczanów magnezu
+
+> [!success]- Odpowiedź
+> Dopasowywanka o metoprololu werapamilu adenozynie i siarczanów magnezu
+
+---
+### 1T2023 · 16
+
+Różnica IACE I BRA:
+
+> [!success]- Odpowiedź
+> Różnica IACE I BRA:
+
+---
+### 1T2023 · 17
+
+Co można z ibuprofenem
+
+> [!success]- Odpowiedź
+> Co można z ibuprofenem
+
+---
+### 1T2023 · 18
+
+4 przeciwzakrzepowe
+
+> [!success]- Odpowiedź
+> 4 przeciwzakrzepowe
+
+---
+### 1T2023 · 19
+
+Pytanie o fałsz
+
+> [!success]- Odpowiedź
+> Pytanie o fałsz
+
+---
+### 1T2023 · 20
+
+Pytanie o fałsz o to LZM
+
+> [!success]- Odpowiedź
+> Pytanie o fałsz o to LZM
+
+---
+### 1T2023 · 21
+
+Jedna odp o środowisku zasadowym Że wtedy mniej zjonizowane i lepiej działa
+
+> [!success]- Odpowiedź
+> Jedna odp o środowisku zasadowym Że wtedy mniej zjonizowane i lepiej działa
+
+---
+### 1T2023 · 22
+
+Przenika lub nie przenika do OUN
+
+> [!success]- Odpowiedź
+> Przenika lub nie przenika do OUN
+
+---
+### 1T2023 · 23
+
+Słabo do tkanek penetruje coś takiego
+
+> [!success]- Odpowiedź
+> Słabo do tkanek penetruje coś takiego
+
+---
+### 1T2023 · 24
+
+Mechanizm lewetiracetamu podany , i że dlaczego jest stosowany (Lek wpsomagajacy w padaczce który zmienia prady czy coś)
+
+> [!success]- Odpowiedź
+> Mechanizm lewetiracetamu podany , i że dlaczego jest stosowany (Lek wpsomagajacy w padaczce który zmienia prady czy coś)
+
+---
+### 1T2023 · 25
+
+Trzeba było zaznaczyć że nie ma interakcji z innymi lekami i dlatego jest najfajniejszy
+
+> [!success]- Odpowiedź
+> Trzeba było zaznaczyć że nie ma interakcji z innymi lekami i dlatego jest najfajniejszy
+
+---
+### 1T2023 · 26
+
+Rozszerza naczynia ?
+
+> [!success]- Odpowiedź
+> Rozszerza naczynia ?
+
+---
+### 1T2023 · 27
+
+Wzrost resorpcji Na i H2O
+
+> [!success]- Odpowiedź
+> Wzrost resorpcji Na i H2O
+
+---
+### 1T2023 · 28
+
+Wpływ na serce że chyba mniej bije
+
+> [!success]- Odpowiedź
+> Wpływ na serce że chyba mniej bije
+
+---
+### 1T2023 · 29
+
+Trzeba doczytać te krążenia obwodowe / mózgowe
+
+> [!success]- Odpowiedź
+> Trzeba doczytać te krążenia obwodowe / mózgowe
+
+---
+### 1T2023 · 30
+
+Było jeszcze o mechanizm działania tinizydyny czy coś takiego i były odp 3 z GABA
+
+> [!success]- Odpowiedź
+> Było jeszcze o mechanizm działania tinizydyny czy coś takiego i były odp 3 z GABA
+
+---
+### 1T2023 · 31
+
+1 dzialanie tyzanidyny
+
+> [!success]- Odpowiedź
+> 1 dzialanie tyzanidyny
+
+---
+### 1T2023 · 32
+
+2 dzialanie adenozyny
+
+> [!success]- Odpowiedź
+> 2 dzialanie adenozyny
+
+---
+### 1T2023 · 33
+
+● Pobudzenie b1- inotropowo dodatnio
+
+> [!success]- Odpowiedź
+> ● Pobudzenie b1- inotropowo dodatnio
+
+---
+### 1T2023 · 34
+
+● Hipokalcemia
+
+> [!success]- Odpowiedź
+> ● Hipokalcemia
+
+---
+### 1T2023 · 35
+
+● Hipokaliemia
+
+> [!success]- Odpowiedź
+> ● Hipokaliemia
+
+---
+### 1T2023 · 36
+
+● Hiperurykemia
+
+> [!success]- Odpowiedź
+> ● Hiperurykemia
+
+---
+### 1T2023 · 37
+
+10.Efekt pobudzenia receptora H1
+
+> [!success]- Odpowiedź
+> 10.Efekt pobudzenia receptora H1
+
+---
+### 1T2023 · 38
+
+11.Co zastosować w przypadku guza prolaktynowengo czy coś takiego. Że tam pacjent się nie zgadza na operacje itp. bromokryptynę?
+
+> [!success]- Odpowiedź
+> 11.Co zastosować w przypadku guza prolaktynowengo czy coś takiego. Że tam pacjent się nie zgadza na operacje itp. bromokryptynę?
+
+---
+### 1T2023 · 39
+
+Zwiększenia penetracji do OUN
+
+> [!success]- Odpowiedź
+> Zwiększenia penetracji do OUN
+
+---
+### 1T2023 · 40
+
+Zmniejszenia rozpadania itp.
+
+> [!success]- Odpowiedź
+> Zmniejszenia rozpadania itp.
+
+---
+### 1T2023 · 41
+
+A. Sulfatiazol srebra
+
+> [!success]- Odpowiedź
+> A. Sulfatiazol srebra
+
+---
+### 1T2023 · 42
+
+A.zwiększonego przechodzenia przez OUN
+
+> [!success]- Odpowiedź
+> A.zwiększonego przechodzenia przez OUN
+
+---
+### 1T2023 · 43
+
+Azole- hamowanie demetylazy lanosterolu-> hamowanie biosyntezy ergosterolu
+
+> [!success]- Odpowiedź
+> Azole- hamowanie demetylazy lanosterolu-> hamowanie biosyntezy ergosterolu
+
+---
+### 1T2023 · 44
+
+A. może podwyższać transferazy
+
+> [!success]- Odpowiedź
+> A. może podwyższać transferazy
+
+---
+### 1T2023 · 45
+
+B. Bezpieczny dla kobiet w ciąży
+
+> [!success]- Odpowiedź
+> B. Bezpieczny dla kobiet w ciąży
+
+---
+### 1T2023 · 46
+
+C. Silnie obniża TG
+
+> [!success]- Odpowiedź
+> C. Silnie obniża TG
+
+---
+### 1T2023 · 47
+
+Odp. 1A, 2C, 3D, 4B
+
+> [!success]- Odpowiedź
+> Odp. 1A, 2C, 3D, 4B
+
+---
+### 1T2023 · 48
+
+47.przy stosowaniu ibuprofenu z którym z leków nie ma działań niepożądanych
+
+> [!success]- Odpowiedź
+> był ASA,
+
+---
+### 1T2023 · 49
+
+50.wybrać które prawidłowe i dużo mechanizmów do koksybów, oksykamów, ASA, na które
+
+> [!success]- Odpowiedź
+> 50.wybrać które prawidłowe i dużo mechanizmów do koksybów, oksykamów, ASA, na które
+
+---
+### 1T2023 · 50
+
+COX preferencyjne itd
+
+> [!success]- Odpowiedź
+> COX preferencyjne itd
+
+---
+### 1T2023 · 51
+
+67.wybrać lek z dobrym mechanizmem
+
+> [!success]- Odpowiedź
+> imatynib - ihibitor kinaz tyrozynowych
+
+---
+### 1T2023 · 52
+
+71.przypasowanie dobrego mechanizmu
+
+> [!success]- Odpowiedź
+> setrony, na h1 itd
+
+---
+### 1T2023 · 53
+
+●        nefrotoksyczne metabolity
+
+> [!success]- Odpowiedź
+> ●        nefrotoksyczne metabolity
+
+---
+### 1T2023 · 54
+
+84.1.izotretynoina
+
+> [!success]- Odpowiedź
+> D
+
+---

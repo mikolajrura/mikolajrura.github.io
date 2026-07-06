@@ -15,6 +15,7 @@ Poniżej znajduje się lista plików, z których korzystał Klaudiusz:
 - I termin Farmakologia 11.06.24.pdf
 - Farma II Termin 4.07.2024.pdf
 - Farma-baza-2-termin-13.07.2023.docx
+- Farmakologia1termin2023.pdf
 
 
 Dodatkowo każda substancja chemiczna (Small Drug Molecules) otrzymały struktury na bazie ich kodów SMILES zaciągniętych z bazy PubChem. 

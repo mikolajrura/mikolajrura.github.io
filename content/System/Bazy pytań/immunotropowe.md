@@ -59,3 +59,31 @@ Lek stosowany w raku nerki wpływający na syntezę czynnika wzrostu naczyniowo[
 > d.     temsirolimus
 
 ---
+
+
+## Egzamin 1-termin 2023 (dodane, recall)
+
+### 1T2023 · 1
+
+Lek łączy się z makrofilina stosowany miejscowo
+
+> [!success]- Odpowiedź
+> pimekrolimus
+
+---
+### 1T2023 · 3
+
+2 metotreksat
+
+> [!success]- Odpowiedź
+> 2 metotreksat
+
+---
+### 1T2023 · 4
+
+75. lek na skórę, inhibitor kalcyneuryny
+
+> [!success]- Odpowiedź
+> pimekrolimus
+
+---

@@ -520,3 +520,95 @@ Linezolid wskaż fałszywy opis - przy doustnym 100% biodost./
 > działa na 30S
 
 ---
+
+
+## Egzamin 1-termin 2023 (dodane, recall)
+
+### 1T2023 · 1
+
+Badanie wzroku
+
+> [!success]- Odpowiedź
+> etambutol
+
+---
+### 1T2023 · 2
+
+Wit b6 - izoniazyd
+
+> [!success]- Odpowiedź
+> Wit b6 - izoniazyd
+
+---
+### 1T2023 · 3
+
+Fałsz o metronidazolu ze słabo penetruje do tkanek
+
+> [!success]- Odpowiedź
+> Fałsz o metronidazolu ze słabo penetruje do tkanek
+
+---
+### 1T2023 · 4
+
+Metronidazol zaznacz fałsz -słabo przenika do oun
+
+> [!success]- Odpowiedź
+> Metronidazol zaznacz fałsz -słabo przenika do oun
+
+---
+### 1T2023 · 5
+
+Antybiotyk na zakażenia oun, a doustnie na clostridium
+
+> [!success]- Odpowiedź
+> wankomycyna
+
+---
+### 1T2023 · 6
+
+Nieprawidłowe stwoerdzenie o metronidazolu
+
+> [!success]- Odpowiedź
+> odpowiedzi że słabo przenika do oun, działa na pierwotniaki i bakterie beztlenowe
+
+---
+### 1T2023 · 7
+
+Przy którym leku nie trzeba badac oka- etambutol, ryfampicyna, izoniazyd
+
+> [!success]- Odpowiedź
+> Przy którym leku nie trzeba badac oka- etambutol, ryfampicyna, izoniazyd
+
+---
+### 1T2023 · 8
+
+Lek dożylnie zapalenie wsierdzia itp. A doustnie clostridium difficale
+
+> [!success]- Odpowiedź
+> wankomycyna
+
+---
+### 1T2023 · 9
+
+W przypadku stosownia jakiego leku należy suplementować wit. B6 (izoniazyd)
+
+> [!success]- Odpowiedź
+> W przypadku stosownia jakiego leku należy suplementować wit. B6 (izoniazyd)
+
+---
+### 1T2023 · 10
+
+Coś było o metronidazolu
+
+> [!success]- Odpowiedź
+> Coś było o metronidazolu
+
+---
+### 1T2023 · 11
+
+32. chyba leki na gruźlicę i w którym trzeba kontrolować wzrok?
+
+> [!success]- Odpowiedź
+> ETAMBUTOL
+
+---

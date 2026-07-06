@@ -696,3 +696,39 @@ Który z leków jest stosowany w premedykacji
 > (midazolam)
 
 ---
+
+
+## Egzamin 1-termin 2023 (dodane, recall)
+
+### 1T2023 · 1
+
+Błędny mechanizm
+
+> [!success]- Odpowiedź
+> buspiron wpływ na rec AMPA
+
+---
+### 1T2023 · 2
+
+4. Przeciwlękowy, najmniejsze działanie na funkcje seksualne
+
+> [!success]- Odpowiedź
+> 4. Przeciwlękowy, najmniejsze działanie na funkcje seksualne
+
+---
+### 1T2023 · 3
+
+2. Buspiron
+
+> [!success]- Odpowiedź
+> 2. Buspiron
+
+---
+### 1T2023 · 4
+
+15. Difenhydramina wskazać fałszywe
+
+> [!success]- Odpowiedź
+> 15. Difenhydramina wskazać fałszywe
+
+---

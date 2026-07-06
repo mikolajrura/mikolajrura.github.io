@@ -123,3 +123,15 @@ Fałszywe o lekach przeciwzakrzepowych
 > alteplaza jest lekiem przeciwpłytkowym
 
 ---
+
+
+## Egzamin 1-termin 2023 (dodane, recall)
+
+### 1T2023 · 1
+
+68.które działają na GP IIIa/IIb
+
+> [!success]- Odpowiedź
+> abciksimab, eptifibatyd, tirofiban
+
+---

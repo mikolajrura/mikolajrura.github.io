@@ -884,3 +884,57 @@ Fałszywe z benzo/barbiturany - w odp. np które bardziej selektywne
 > fenobarbital mocniej na ośrodek oddechow
 
 ---
+
+
+## Egzamin 1-termin 2023 (dodane, recall)
+
+### 1T2023 · 1
+
+o lekach przeciwpadaczkowych przyporządkowac i coś było że lewetyracetam wpływa na cytochrom a drugie jakieś pojebane
+
+> [!success]- Odpowiedź
+> o lekach przeciwpadaczkowych przyporządkowac i coś było że lewetyracetam wpływa na cytochrom a drugie jakieś pojebane
+
+---
+### 1T2023 · 2
+
+Mechanizm lewetiracetam trzeba było zaznaczyć że bez interakcji
+
+> [!success]- Odpowiedź
+> Mechanizm lewetiracetam trzeba było zaznaczyć że bez interakcji
+
+---
+### 1T2023 · 3
+
+3. Karbamazepina
+
+> [!success]- Odpowiedź
+> 3. Karbamazepina
+
+---
+
+## Przeniesione (poprawiony routing)
+
+### Pytanie 15
+
+```quiz
+Topiramat jest lekiem o złożonym mechanizmie, skutkującym następującymi działaniami farmakologicznymi za wyjątkiem
+- nasilenia działania GABA
+- hamowania aktywności anhydrazy węglanowej
+- hamowania działania aminokwasów pobudzających
++ bezpośredniego nasilenia przekaźnictwa noradrenergicznego
+- blokowania receptorów glutaminergicznych typu AMPA
+```
+
+---
+
+## Pytania z samą odpowiedzią (recall)
+
+### Recall 11
+
+Topiramat jest lekiem o złozonym mechanizmie skutkujacym dzialaniami za wyjatkiem
+
+> [!success]- Odpowiedź
+> bezpośredniego nasilenia przekaźnictwa noradrenergicznego
+
+---

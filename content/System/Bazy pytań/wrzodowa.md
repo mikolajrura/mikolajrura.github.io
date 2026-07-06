@@ -81,3 +81,31 @@ Dlaczego IPP stosujemy 30 min przed jedzeniem
 > stosować 1⁄2 h przed posiłkiem (posiłek aktywuje pompy protonowe) – zazwyczaj rano przed śniadaniem – 1/24h; Szybkie wchłanianie do krwi i transport do kanalików wydzielniczych komórek okładzinowych
 
 ---
+
+
+## Egzamin 1-termin 2023 (dodane, recall)
+
+### 1T2023 · 3
+
+2. Powodują owrzodzenia
+
+> [!success]- Odpowiedź
+> 2. Powodują owrzodzenia
+
+---
+### 1T2023 · 4
+
+5. Omeprazol i flutikazon
+
+> [!success]- Odpowiedź
+> 5. Omeprazol i flutikazon
+
+---
+### 1T2023 · 5
+
+7. Starsza pani ma ChNS ale ma zgagę co zobojętniające może jej tu powodac
+
+> [!success]- Odpowiedź
+> 7. Starsza pani ma ChNS ale ma zgagę co zobojętniające może jej tu powodac
+
+---

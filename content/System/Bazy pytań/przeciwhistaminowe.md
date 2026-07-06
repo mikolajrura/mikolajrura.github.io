@@ -223,3 +223,135 @@ Który lek p.histaminowy I generacji działa najdłużej
 > klemastyna
 
 ---
+
+
+## Egzamin 1-termin 2023 (dodane, recall)
+
+### 1T2023 · 1
+
+Wybierz prawidłowe
+
+> [!success]- Odpowiedź
+> prometazyna wymioty ciężarnych
+
+---
+### 1T2023 · 2
+
+Pytanie o leki przeciwhistaminowe, wskazać prawidłowe dopasowanie
+
+> [!success]- Odpowiedź
+> prometazyna- na wymioty w ciąży
+
+---
+### 1T2023 · 3
+
+Też o przeciwhistaminowe
+
+> [!success]- Odpowiedź
+> nieprawidłowe dopasowanie: doksylamina, dyfenhydramina…
+
+---
+### 1T2023 · 4
+
+15. Prawidłowe zestawienie
+
+> [!success]- Odpowiedź
+> Prometazyna - wymioty ciężarnych
+
+---
+### 1T2023 · 5
+
+2. Rupatadyna i nalokson
+
+> [!success]- Odpowiedź
+> 2. Rupatadyna i nalokson
+
+---
+### 1T2023 · 6
+
+3.cetyryzyna i atropina
+
+> [!success]- Odpowiedź
+> 3.cetyryzyna i atropina
+
+---
+### 1T2023 · 7
+
+14. Pseudojednokrotne z histaminowymi
+
+> [!success]- Odpowiedź
+> 14. Pseudojednokrotne z histaminowymi
+
+---
+### 1T2023 · 8
+
+21. Wymienione m.in wrzody, uszkodzenie szpiku, psychoza i Które dzialanie nie moze byc przy stosowaniu przeciwhistaminowych H1
+
+> [!success]- Odpowiedź
+> 21. Wymienione m.in wrzody, uszkodzenie szpiku, psychoza i Które dzialanie nie moze byc przy stosowaniu przeciwhistaminowych H1
+
+---
+### 1T2023 · 9
+
+79. Prawdziwe że prometazyna
+
+> [!success]- Odpowiedź
+> na wymioty w ciąży
+
+---
+
+## Przeniesione (poprawiony routing)
+
+### przeniesione
+
+Co nie jest przeciwwskazaniem do stosowania blokerów H1
+
+> [!success]- Odpowiedź
+> tu chyba było uszkodzenie szpiku, inne odp. Psychozy, jaskra, przerost prostaty, choroba wrzodowa
+
+---
+
+### przeniesione
+
+4. Co NIE jest przeciwwskazaniem do stosowania H1-blokerów
+
+> [!success]- Odpowiedź
+> a. psychozy b.Jaskra c.Przerost gruczołu krokowego d.Supresja szpiku e.Choroba wrzodowa żołądka
+
+---
+
+### przeniesione
+
+Co nie jest działaniem po pobudzeniu H1
+
+> [!success]- Odpowiedź
+> odp że ciśnienie zmniejsza, powoduje skurcz mięśni p.pokarm., działanie proarytmiczne
+
+---
+
+### przeniesione
+
+Jakie działanie przwciwhistaminowych nie jest pozareceptorowe, albo jest pozareceptorowe: było TdP, skrócenie QT…
+
+> [!success]- Odpowiedź
+> (pozarec. Będą: TdP \= wydłużenie QT i dział. Przeciwzapalne)
+
+---
+
+### przeniesione
+
+akie działanie adrenaliny jest ważne w wstrząsie
+
+> [!success]- Odpowiedź
+> beta1 mimetyczne, beta2 mimetycznie jakieś z alfa chyba
+
+---
+
+### przeniesione
+
+37. Co jest NIE JEST przeciwwskazaniem do stosowania blokerów H1? Do wyboru
+
+> [!success]- Odpowiedź
+> jaskra, przerost stercza, psychozy, uszkodzenie szpiku
+
+---

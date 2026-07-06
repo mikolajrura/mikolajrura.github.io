@@ -120,3 +120,103 @@ Działanie statyn jest najlepiej wyrażone
 > a.  silnym obniżeniem poziomu LDL
 
 ---
+
+
+## Egzamin 1-termin 2023 (dodane, recall)
+
+### 1T2023 · 1
+
+17. Dopasuj mechanizm Ezetymib
+
+> [!success]- Odpowiedź
+> najbezpieczniejszy Fibrat - obniża tg
+
+---
+### 1T2023 · 2
+
+Ewolukumab
+
+> [!success]- Odpowiedź
+> coś z pcsk9 Statyna coś z poziomem ldl, atorwastatyna- podwyższa poziom kinazybkreatynowej i transaminaz
+
+---
+### 1T2023 · 3
+
+6. Które leki można przyjmować niezależnie od pory dnia 1. Simwastatyna 2.
+
+> [!success]- Odpowiedź
+> 6. Które leki można przyjmować niezależnie od pory dnia 1. Simwastatyna 2.
+
+---
+### 1T2023 · 4
+
+Prawastatyna 3. Atorwastatyna 4. Rosuwastatyna Odpowiedz prawidłowa
+
+> [!success]- Odpowiedź
+> 2,3,4
+
+---
+### 1T2023 · 5
+
+Atowastatyna
+
+> [!success]- Odpowiedź
+> może podnosić kinazę kreatynowa
+
+---
+### 1T2023 · 6
+
+1.Jakaś statyna
+
+> [!success]- Odpowiedź
+> 1.Jakaś statyna
+
+---
+### 1T2023 · 7
+
+2.Fibrat
+
+> [!success]- Odpowiedź
+> 2.Fibrat
+
+---
+### 1T2023 · 8
+
+3.Ewolokumab
+
+> [!success]- Odpowiedź
+> 3.Ewolokumab
+
+---
+### 1T2023 · 9
+
+D. Hamowanie rozkładu zależnego od PCSK9 wątrobowego receptora dla LDL
+
+> [!success]- Odpowiedź
+> D. Hamowanie rozkładu zależnego od PCSK9 wątrobowego receptora dla LDL
+
+---
+### 1T2023 · 10
+
+36. Które statyny można zażywać bez względu na porę dnia Prawastatyna Rosuwastatyna
+
+> [!success]- Odpowiedź
+> 36. Które statyny można zażywać bez względu na porę dnia Prawastatyna Rosuwastatyna
+
+---
+### 1T2023 · 11
+
+Atorwastatyna ( PRA masz PRAwo brać je o każdej porze dnia)
+
+> [!success]- Odpowiedź
+> Atorwastatyna ( PRA masz PRAwo brać je o każdej porze dnia)
+
+---
+### 1T2023 · 12
+
+80.Które statyny można o obojętnej porze
+
+> [!success]- Odpowiedź
+> wszystkie oprócz simwastatyny
+
+---

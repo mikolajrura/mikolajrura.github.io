@@ -97,3 +97,119 @@ o mdma
 > tabletki
 
 ---
+
+
+## Egzamin 1-termin 2023 (dodane, recall)
+
+### 1T2023 · 1
+
+33 o Heroinę, MNDA, psylocybine i marichuane, jak działają MDMA- tablety, euforia
+
+> [!success]- Odpowiedź
+> 33 o Heroinę, MNDA, psylocybine i marichuane, jak działają MDMA- tablety, euforia
+
+---
+### 1T2023 · 2
+
+Marihuana- CBD Psylocybina- nie uzależnia,derealizacja Heroina
+
+> [!success]- Odpowiedź
+> mega uzależnia
+
+---
+### 1T2023 · 3
+
+32 antagonizm komprtycyjny dla których par leków
+
+> [!success]- Odpowiedź
+> Nalokson i coś tam (tu chyba była para nalokson i ranitydyna), cetryzyna i coś tam
+
+---
+### 1T2023 · 4
+
+20. Ktory zestaw lek-odtrutka jest nieprawidłowy? A flumazenil
+
+> [!success]- Odpowiedź
+> poch benzodiazepiny B deferksamina - fe C fizostygmina - cholinolityki tpld D nalokson - opioidy E pilokarpina - pestycydy fosfoorganiczne
+
+---
+### 1T2023 · 5
+
+Prawidłowe połączenie substancja uzależnienie czy jakoś tak i była heroina, LSD, Psylo coś i coś jeszcze
+
+> [!success]- Odpowiedź
+> Prawidłowe połączenie substancja uzależnienie czy jakoś tak i była heroina, LSD, Psylo coś i coś jeszcze
+
+---
+### 1T2023 · 6
+
+4.fentanyl i zufenopril
+
+> [!success]- Odpowiedź
+> 4.fentanyl i zufenopril
+
+---
+### 1T2023 · 7
+
+3. Mdma heroina psylocybina i marihuana leczenie zaleznosci i efekty odstawienne
+
+> [!success]- Odpowiedź
+> 3. Mdma heroina psylocybina i marihuana leczenie zaleznosci i efekty odstawienne
+
+---
+### 1T2023 · 8
+
+2.   Alkohol hipertermia
+
+> [!success]- Odpowiedź
+> 2.   Alkohol hipertermia
+
+---
+### 1T2023 · 9
+
+4.   Zwiększenie uwalniania amin katecholowych, alkohol
+
+> [!success]- Odpowiedź
+> 4.   Zwiększenie uwalniania amin katecholowych, alkohol
+
+---
+### 1T2023 · 10
+
+●        fentanyl
+
+> [!success]- Odpowiedź
+> ●        fentanyl
+
+---
+### 1T2023 · 11
+
+81.Psylocybina,marihuana, MDMA, HEROINA dopasowywanie → w formie tabletek, uzależnienie psychiczne i fizyczne, uzaleznienie tylko psychiczne + senność + sichość w ustach; uzależnienie psychiczne + halucynacje
+
+> [!success]- Odpowiedź
+> 81.Psylocybina,marihuana, MDMA, HEROINA dopasowywanie → w formie tabletek, uzależnienie psychiczne i fizyczne, uzaleznienie tylko psychiczne + senność + sichość w ustach; uzależnienie psychiczne + halucynacje
+
+---
+### 1T2023 · 12
+
+marihuana- uzależnienei tylko psychiczne, suchość w ustach
+
+> [!success]- Odpowiedź
+> marihuana- uzależnienei tylko psychiczne, suchość w ustach
+
+---
+### 1T2023 · 13
+
+MDMA- tabletki
+
+> [!success]- Odpowiedź
+> MDMA- tabletki
+
+---
+### 1T2023 · 14
+
+psylocybina- tylko psychiczne i halucyny heroina- psych i fiz
+
+> [!success]- Odpowiedź
+> psylocybina- tylko psychiczne i halucyny heroina- psych i fiz
+
+---

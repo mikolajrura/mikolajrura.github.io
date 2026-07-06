@@ -397,3 +397,71 @@ Który lek stosujemy w stanach skurczowych dróg żółciowych
 > drotaweryna
 
 ---
+
+
+## Egzamin 1-termin 2023 (dodane, recall)
+
+### 1T2023 · 2
+
+Lek prokinetyczny przy wymiotach i biegunce????? Itopryd
+
+> [!success]- Odpowiedź
+> Lek prokinetyczny przy wymiotach i biegunce????? Itopryd
+
+---
+### 1T2023 · 3
+
+O działaniu leków na pokarmowy i wskazać prawidłowe
+
+> [!success]- Odpowiedź
+> loperamid- pobudzenie perystaltyki, trimebutyna- pobudzenie rec enkefalinowych, simetykon- dobrze wchłaniany z przewodu pokarm, dokuzan sodowy - działanie na D2 w OUNLek hamujący wychwyt serotoniny, który powoduje zaburzenia libido, ale najmniejsze ze swojej grupy: sertralina??
+
+---
+### 1T2023 · 4
+
+5. Wskaż zdanie fałszywe
+
+> [!success]- Odpowiedź
+> Powinno się odstawiać antagonistów receptorów H1 przed przystąpieniem do testów skórnych - W silnym świądzie wykorzystuje się leki przeciwhistaminowe 1 generacji bo przenikają do mózgu i to wywołuje korzystniejsze działanie - Difenhydramina wykorzystywana jest jako lek przeciwwymiotny - Leki przeciwhistaminowe I generacji wykazują działanie na receptory H1 i na receptory cholinolinergiczne - I coś jeszcze
+
+---
+### 1T2023 · 5
+
+9. Lek prokinetyczny, zwiększający stężenie acetylocholiny, stosowany w nudnościach i wymiotach.
+
+> [!success]- Odpowiedź
+> 9. Lek prokinetyczny, zwiększający stężenie acetylocholiny, stosowany w nudnościach i wymiotach.
+
+---
+### 1T2023 · 6
+
+1. Lek wskazanie była prometazyna ondansteron lajtuloza metoklopramid i coś
+
+> [!success]- Odpowiedź
+> 1. Lek wskazanie była prometazyna ondansteron lajtuloza metoklopramid i coś
+
+---
+### 1T2023 · 7
+
+2. Zaparcia
+
+> [!success]- Odpowiedź
+> 2. Zaparcia
+
+---
+### 1T2023 · 8
+
+55. lek prokinetyczny i jakiś dłuższy opis
+
+> [!success]- Odpowiedź
+> itopryd
+
+---
+### 1T2023 · 9
+
+72. o środkach przeczyszczających
+
+> [!success]- Odpowiedź
+> dokuzan, laktuloza itd - mechanizmy!
+
+---

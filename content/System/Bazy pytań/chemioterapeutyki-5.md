@@ -384,3 +384,127 @@ Fałsz o acyklowirze
 > działa przeciwbakteryjnie i przeciwwirusowo
 
 ---
+
+
+## Egzamin 1-termin 2023 (dodane, recall)
+
+### 1T2023 · 1
+
+Różnica flukonazolu od ketokonazolu
+
+> [!success]- Odpowiedź
+> Różnica flukonazolu od ketokonazolu
+
+---
+### 1T2023 · 2
+
+Błędnie połączono lek- mechanizm (flucytozyna
+
+> [!success]- Odpowiedź
+> blok fosfofruktokinazy)
+
+---
+### 1T2023 · 3
+
+Terbinafina
+
+> [!success]- Odpowiedź
+> Terbinafina
+
+---
+### 1T2023 · 4
+
+3. Czym różni się flukonazol od ketokonazolu
+
+> [!success]- Odpowiedź
+> 3. Czym różni się flukonazol od ketokonazolu
+
+---
+### 1T2023 · 5
+
+Pytanie z bazy o oseltamiwirze, ze najszerszy zakres na grypę, trzeba było zaznaczyc ze inhibitor neuramidazy
+
+> [!success]- Odpowiedź
+> Pytanie z bazy o oseltamiwirze, ze najszerszy zakres na grypę, trzeba było zaznaczyc ze inhibitor neuramidazy
+
+---
+### 1T2023 · 6
+
+22. Mechanizm działania jakiegoś przeciwgrzybiczego, ale nie pamiętałam którego
+
+> [!success]- Odpowiedź
+> 22. Mechanizm działania jakiegoś przeciwgrzybiczego, ale nie pamiętałam którego
+
+---
+### 1T2023 · 7
+
+22. Mechanizm działania leku o najszerszym zakresie na grypę
+
+> [!success]- Odpowiedź
+> 22. Mechanizm działania leku o najszerszym zakresie na grypę
+
+---
+### 1T2023 · 8
+
+28. Przeciwwirusowy na HSV, gram + i
+
+> [!success]- Odpowiedź
+> -
+
+---
+### 1T2023 · 9
+
+30. mechanizmy do poszczególnych przeciwgrzybicznych
+
+> [!success]- Odpowiedź
+> amfoterycyna, terbinafina itd i zaznaczyć który mechanizm jest fałszywy (napisze jakie są poprawne)
+
+---
+### 1T2023 · 10
+
+Amfoterycyna zwiększa przepuszczalność błony, wiąże się z ergosterolami błony -> powstawanie porów
+
+> [!success]- Odpowiedź
+> Amfoterycyna zwiększa przepuszczalność błony, wiąże się z ergosterolami błony -> powstawanie porów
+
+---
+### 1T2023 · 11
+
+Flucytozyna- przemiana do 5-fluorouracylu i hamowanie aktywności syntetazy tymidylanu, zaburzenie syntezy DNA
+
+> [!success]- Odpowiedź
+> Flucytozyna- przemiana do 5-fluorouracylu i hamowanie aktywności syntetazy tymidylanu, zaburzenie syntezy DNA
+
+---
+### 1T2023 · 12
+
+Amorolfina- hamuje aktywność epoksydazy skwalenowej -> niedobór ergosterolu
+
+> [!success]- Odpowiedź
+> Amorolfina- hamuje aktywność epoksydazy skwalenowej -> niedobór ergosterolu
+
+---
+### 1T2023 · 13
+
+Terbinafina- to samo co Amorolfina
+
+> [!success]- Odpowiedź
+> Terbinafina- to samo co Amorolfina
+
+---
+### 1T2023 · 14
+
+31. przeciwwirusowy najczęściej stosowany na grypę (oseltamiwir) i jaki ma mechanizm
+
+> [!success]- Odpowiedź
+> inhibitor neuraminidazy
+
+---
+### 1T2023 · 15
+
+78. Porównanie flukonazolu i ketokonazolu
+
+> [!success]- Odpowiedź
+> że flukonazol ma lepszą penetrację do OUN
+
+---

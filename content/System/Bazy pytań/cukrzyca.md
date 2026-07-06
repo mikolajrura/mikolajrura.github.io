@@ -137,22 +137,55 @@ Lek przeciwcukrzycowy, parenteralne (np domięśniowo) podanie, zmniejsza glukon
 > liraglutyd
 
 ---
-### 2T2023 · 2
 
-```quiz
-Mechanizm tiazydów - jak wytłumaczysz mechanizm działania niepożądanego i trzeba było zaznaczyć fałszywe
-- coś o kanaliku zbiorczym Na K retencja wody i sodu (wzrost wymiany Na+ w kanaliku zbiorczym)
-- zmnijeszone wydalanie kwasu moczowego – dna moczanowa
-+ chyba to z alkalazą hipochlorową
-- hiperglikemia – zmniejszone wydzielanie insuliny
-```
 
----
-### 2T2023 · 3
+## Egzamin 1-termin 2023 (dodane, recall)
 
-Wybrać fałszywe DN GKS – jaskra / wrzody /
+### 1T2023 · 1
+
+Który lek nie powoduje glukoneogenezy
 
 > [!success]- Odpowiedź
-> hipoglikemia
+> w odpowiedziach różne przeciwcukrzycowe i odpowiedź że brak prawidłowej
+
+---
+### 1T2023 · 2
+
+Pytanie 25
+
+> [!success]- Odpowiedź
+> dopasuj opis do leków przeciwcukrzycowych: metformina B12 itd, pioglitazon obniża TG itd, glimepiryd hamuje glukoneogenze hipoglikemizujący itd, dapagliflozyna hamuje transport nerkowy glukozy itd
+
+---
+### 1T2023 · 3
+
+22. Opis działania
+
+> [!success]- Odpowiedź
+> metformima, dapagliflozyna, glitazon jakiś,
+
+---
+### 1T2023 · 5
+
+Prawidłowe połączenia leki-mechnizm na cukrzyce
+
+> [!success]- Odpowiedź
+> Prawidłowe połączenia leki-mechnizm na cukrzyce
+
+---
+### 1T2023 · 6
+
+38. Który lek nie powoduje spadku glukoneogenezy? Metformina- hamuje glukoneogenezę, akarboza- , pioglitazon, gli…coś tam, żaden z wymienionych
+
+> [!success]- Odpowiedź
+> 38. Który lek nie powoduje spadku glukoneogenezy? Metformina- hamuje glukoneogenezę, akarboza- , pioglitazon, gli…coś tam, żaden z wymienionych
+
+---
+### 1T2023 · 7
+
+56. przypasować opisy do leków
+
+> [!success]- Odpowiedź
+> metformina, pioglitazon, flozyny itd (przy których zwiększenie HDL, LDL, o wit B12, opóźnianie wchłaniania glukozy itd)
 
 ---
