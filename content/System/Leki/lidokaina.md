@@ -22,7 +22,11 @@ CCN(CC)CC(=O)NC1=C(C=CC=C1C)C
 > [!note] Dane in vitro (Homo sapiens), źródło: [ChEMBL](https://www.ebi.ac.uk/chembl/) → assay → dokument (PubMed). 
 
 
-Lidokaina w trakcie 
+Lidokaina posiada efekt pierwszego przejścia więc zazwyczaj podaje się ją albo miejscowo, np. w postaci tabletek GARDIMAX na gardło, albo w warunkach szpitalnych i.v. 
+
+Stosuje się to w arytmiach (Klasa Ib w Klasyfikacji Vaughana-Williamsa). 
+
+W tej klasyfikacji wszystkie należące do grupy 1 to blokery kanałów sodowych, ale różni je tylko kinetyka odłączania od kanału. 
 
 ##### Targety (kanały Naᵥ)
 
