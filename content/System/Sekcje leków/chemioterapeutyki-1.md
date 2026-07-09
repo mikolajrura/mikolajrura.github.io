@@ -34,3 +34,4 @@ kind: sekcja
 - [[kwas-klawulanowy|Kwas klawulanowy]]
 - [[sulbaktam|Sulbaktam]]
 - [[tazobaktam|Tazobaktam]]
+- [[piwmecylinam|Piwmecylinam]]
