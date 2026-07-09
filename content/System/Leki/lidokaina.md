@@ -20,7 +20,10 @@ CCN(CC)CC(=O)NC1=C(C=CC=C1C)C
 
 #### Targety i off-targety
 
-> [!note] Dane in vitro (Homo sapiens), źródło: [ChEMBL](https://www.ebi.ac.uk/chembl/) → assay → dokument (PubMed). Struktury: PDBe/RCSB. Sortowanie wg siły (rosnące IC50). Wartości µM z różnych assayów nie są wprost porównywalne — patrz oryginalne prace.
+> [!note] Dane in vitro (Homo sapiens), źródło: [ChEMBL](https://www.ebi.ac.uk/chembl/) → assay → dokument (PubMed). 
+
+
+Lidokaina w trakcie 
 
 ##### Targety (kanały Naᵥ)
 
