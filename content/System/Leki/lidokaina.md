@@ -48,9 +48,38 @@ W tej klasyfikacji wszystkie należące do grupy 1 to blokery kanałów sodowych
 | Multidrug and toxin extrusion protein 1 (MATE1)                  | SLC47A1 | IC50 |  500 µM | [9r1f](https://www.rcsb.org/structure/9r1f) | [J Med Chem 2013](https://pubmed.ncbi.nlm.nih.gov/23241029)           |
 | Potassium voltage-gated channel subfamily A member 5             | KCNA5   | IC50 | 2188 µM | —                                           | [J Med Chem 2007](https://pubmed.ncbi.nlm.nih.gov/17506538)           |
 
+## Farmakokinetyka
+
+- **Drogi podania:** brak podania doustnego z powodu wysokiego **efektu pierwszego przejścia**; stosowana **i.v.** (antyarytmicznie) lub **miejscowo / na błony śluzowe**.
+- **Dystrybucja:** lipofilna (XLogP ~2,3) → szybko przenika do OUN i serca; wiązanie z białkami (α1-kwaśna glikoproteina).
+- **Metabolizm:** wątrobowy — **CYP1A2** (główny) i **CYP3A4** → aktywne metabolity **MEGX** i GX (współodpowiedzialne za neurotoksyczność).
+- **Klirens zależny od przepływu wątrobowego** (wysoka ekstrakcja) → w **niewydolności serca / spadku rzutu** stężenie rośnie (ryzyko toksyczności).
+- **t½** ~1,5–2 h.
+
 ## Wskazania
 
+%% Komorowe zaburzenia rytmu (klasa Ib) + znieczulenie miejscowe — opisz swoimi słowami. %%
+
+## Dawkowanie
+
 ## Działania niepożądane
+
+%% Gradient stężeniowy: objawy OUN → drgawki (rozhamowanie) → depresja OUN → zapaść krążeniowa. Rozpisz swoimi słowami. %%
+
+## Przeciwwskazania
+
+## Interakcje
+
+%% Inhibitory CYP1A2/3A4 i leki ↓ przepływ wątrobowy (β-blokery, cymetydyna) → ↑ stężenie lidokainy. %%
+
+## Farmakogenetyka
+
+%% Ograniczone znaczenie; zmienność aktywności CYP1A2/3A4 wpływa na tempo metabolizmu. %%
+
+## Toksykologia / przedawkowanie
+
+- **LAST** (*local anesthetic systemic toxicity*) — objawy **OUN wyprzedzają** zapaść sercowo-naczyniową: drętwienie okołoustne, szum w uszach, drgawki → śpiączka → depresja mięśnia sercowego i hipotensja.
+- **Leczenie:** podtrzymujące (drożność dróg oddechowych, wentylacja, przeciwdrgawkowo benzodiazepiny) + **emulsja lipidowa i.v.** (*lipid rescue*, 20% Intralipid).
 
 ## Uwagi
 
