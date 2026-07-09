@@ -125,8 +125,8 @@ Najwęższy zakres działania spośród penicylin wykazują
 ```quiz
 Do inhibitorów β-laktamaz nie należy: I. tigemonam II. sulbaktam III. tazobaktam IV. meropenem V. aspartam
 - prawidłowe są odpowiedzi I, II i III
-+ prawidłowe są odpowiedzi I, III, IV i V
-- prawidłowe są odpowiedzi: I, IV, V
+- prawidłowe są odpowiedzi I, III, IV i V
++ prawidłowe są odpowiedzi: I, IV, V
 - tylko odpowiedź II jest prawidłowa
 - prawidłowe są wszystkie odpowiedzi
 ```
