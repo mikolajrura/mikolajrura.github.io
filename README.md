@@ -1,7 +1,7 @@
 
 https://mikolajrura.github.io/
 
-
+i made a landing page, because im terribly broke and I dont want to pay 2 dollars/month for a domain, maybe i will change it later lol
 
 
 
