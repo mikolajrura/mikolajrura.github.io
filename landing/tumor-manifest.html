@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<title>A Manifesto Against Blending Tumors</title>
+<meta name="description" content="A manifesto against blending tumors: why bulk RNA-seq glioblastoma subtypes describe a proportion, not an entity.">
+<meta name="robots" content="noindex, nofollow">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<style>
+:root{
+  --bg:#f7f7f7; --panel:#ffffff; --card:#eeeeee; --accent:#e5e5e5;
+  --fg:#171717; --muted:#8a8a8a; --faint:#a8a8a8;
+  --border:rgba(138,138,138,.28); --border-op:#dadada;
+  --grid:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16'%3E%3Cpath d='M0 0V16M0 0H16' stroke='%238a8a8a' stroke-opacity='.34' stroke-width='1' stroke-dasharray='1 3'/%3E%3C/svg%3E");
+  --serif:"Source Serif 4",ui-serif,Georgia,"Times New Roman",serif;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#000000; --panel:#0a0a0a; --card:#141414; --accent:#1c1c1c;
+  --fg:#ededed; --muted:#737373; --faint:#4f4f4f;
+  --border:rgba(115,115,115,.22); --border-op:#262626;
+  --grid:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16'%3E%3Cpath d='M0 0V16M0 0H16' stroke='%23737373' stroke-opacity='.22' stroke-width='1' stroke-dasharray='1 3'/%3E%3C/svg%3E");
+}}
+:root[data-theme="dark"]{
+  --bg:#000000; --panel:#0a0a0a; --card:#141414; --accent:#1c1c1c;
+  --fg:#ededed; --muted:#737373; --faint:#4f4f4f;
+  --border:rgba(115,115,115,.22); --border-op:#262626;
+  --grid:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16'%3E%3Cpath d='M0 0V16M0 0H16' stroke='%23737373' stroke-opacity='.22' stroke-width='1' stroke-dasharray='1 3'/%3E%3C/svg%3E");
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);background-image:var(--grid);color:var(--fg);
+  font-family:var(--serif);font-size:16px;line-height:1.5;-webkit-font-smoothing:antialiased;
+  padding:24px 16px 64px}
+
+.sheet{max-width:760px;margin:0 auto;background:var(--panel);
+  border:1px solid var(--border-op);padding:44px 48px 48px}
+
+.back{max-width:820px;margin:0 auto 14px;font-size:14px}
+.back a{color:var(--muted);text-decoration:none;border-bottom:1px solid var(--border)}
+.back a:hover{color:var(--fg);border-bottom-color:var(--fg)}
+
+.title{text-align:center;margin-bottom:34px}
+.title h1{font-size:27px;font-weight:600;font-variant:small-caps;letter-spacing:.03em;
+  margin:0;line-height:1.2;text-wrap:balance}
+.title p{font-style:italic;font-size:15.5px;color:var(--muted);margin:12px 0 0;line-height:1.45}
+
+p.body{font-size:16.5px;line-height:1.62;margin:0 auto 14px;max-width:63ch}
+p.body b{font-weight:600}
+.dinkus{text-align:center;color:var(--faint);font-size:13px;letter-spacing:.7em;
+  margin:22px 0 22px -0.7em;user-select:none}
+.close{text-align:center;margin:34px 0 0}
+.close span{font-size:21px;font-weight:600;font-variant:small-caps;letter-spacing:.05em}
+
+@media (max-width:640px){
+  body{padding:16px 16px 48px}
+  .sheet{padding:26px 22px 30px}
+  .title h1{font-size:22px}
+  p.body{font-size:16px}
+}
+</style>
+</head>
+<body>
+  <p class="back"><a href="https://github.com/mikolajrura/unglued-manifest">&#8592; unglued-manifest</a></p>
+
+  <main class="sheet">
+    <div class="title">
+      <h1>A Manifesto Against Blending Tumors</h1>
+      <p>or: bulk RNA-seq is a smoothie<br>and everyone is pretending it isn&#8217;t</p>
+    </div>
+
+      <p class="body">Take a tumor. A real one: spatial, with necrosis in the middle, pseudopalisades around it, cells crawling along vessels two centimeters away, and macrophages making up half the volume of the whole thing. Take that entire ecosystem and throw it in a blender. Homogenize it. Extract the RNA. And now tell the patient what molecular subtype they have.</p>
+      <p class="body">That is bulk RNA sequencing. That is the <b>mixed smoothie model</b>. And in 2010 it was state of the art.</p>
+      <p class="dinkus" aria-hidden="true">&lowast; &lowast; &lowast;</p>
+      <p class="body">Verhaak did exactly this and got four subtypes: proneural, neural, classical, mesenchymal. And he did nothing wrong. In 2010 there was nothing better to do it with. The paper was excellent: he tied expression to EGFR, NF1 and PDGFRA, and even showed that classical responds to aggressive therapy while proneural doesn&#8217;t. Respect.</p>
+      <p class="body">The problem isn&#8217;t Verhaak. The problem is that <b>we still talk like this in 2026.</b></p>
+      <p class="dinkus" aria-hidden="true">&lowast; &lowast; &lowast;</p>
+      <p class="body">Because what does a smoothie actually measure? The center of mass. Nothing else. If you blend strawberries with banana and it comes out pink, that doesn&#8217;t mean you have a &#8220;strawberry subtype&#8221;. It means there were more strawberries. A &#8220;classical&#8221; tumor is not a tumor built out of classical cells. It&#8217;s a tumor where AC-like cells <b>outnumbered</b> everything else. That&#8217;s it. The rest is still in there, it just got outvoted.</p>
+      <p class="dinkus" aria-hidden="true">&lowast; &lowast; &lowast;</p>
+      <p class="body">The best part is that the first evidence came from inside the family. In 2017 Wang took the same tumors over time and checked whether the subtype holds. It holds in roughly half of them. So nearly half of all tumors switch subtype during the disease. Same patient, same tumor, different label.</p>
+      <p class="body">If a feature disappears in half your measurements, it is not a feature of the tumor. It is a property of your blender.</p>
+      <p class="dinkus" aria-hidden="true">&lowast; &lowast; &lowast;</p>
+      <p class="body">Then Neftel came along in 2019, ran single-cell across a cohort of tumors, anchored it to TCGA, and described it beautifully: there are four cellular states, AC-like, OPC-like, NPC-like and MES-like. Every tumor contains <b>all of them at once</b>, and they differ only in proportions. And here&#8217;s the nail in the coffin: what drives those proportions? Amplification of EGFR, PDGFRA, CDK4 and mutation of NF1.</p>
+      <p class="body">Which is exactly what Verhaak used to define his subtypes.</p>
+      <p class="body">These are not two competing theories. This is one phenomenon looked at twice: once as blended pulp, once cell by cell. EGFR amplification doesn&#8217;t make a tumor &#8220;classical.&#8221; It tilts the population toward AC-like. The subtype was a shadow cast by a proportion, and nobody saw it, because nobody had the resolution to look.</p>
+      <p class="dinkus" aria-hidden="true">&lowast; &lowast; &lowast;</p>
+      <p class="body">And this is what gets me, when I read &#8220;a tumor of the mesenchymal subtype&#8221; in a 2026 paper as if it were a disease entity. It isn&#8217;t. It&#8217;s a statement about what there was most of in the blender.</p>
+      <p class="dinkus" aria-hidden="true">&lowast; &lowast; &lowast;</p>
+      <p class="body">The consequence is brutally practical, and this is the whole point: if you target a subtype, you are targeting the <b>majority</b>, not the whole. You leave the remaining states untouched, and they are plastic, and they will rebuild the tumor out of whatever survived. That is why targeted monotherapy fails in GBM. Not because our drugs are bad, but because our model of what we&#8217;re shooting at is bad.</p>
+    <div class="close"><span>Stop blending tumors.</span></div>
+  </main>
+</body>
+</html>

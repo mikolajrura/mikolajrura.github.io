@@ -36,6 +36,7 @@ jobs:
           cp landing/404.html   site/404.html
           mkdir -p site/cv && cp landing/cv.html site/cv/index.html
           mkdir -p site/ataxia && cp landing/ataxia.html site/ataxia/index.html
+          mkdir -p site/tumor-manifest && cp landing/tumor-manifest.html site/tumor-manifest/index.html
           cp landing/bg.mp4 site/
           echo "--- site root ---"; ls -1 site
           test -f site/pharmacology/index.html
