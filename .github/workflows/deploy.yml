@@ -34,6 +34,7 @@ jobs:
           cp -r public/. site/pharmacology/
           cp landing/index.html site/index.html
           cp landing/404.html   site/404.html
+          mkdir -p site/cv && cp landing/cv.html site/cv/index.html
           echo "--- site root ---"; ls -1 site
           test -f site/pharmacology/index.html
       - name: Upload artifact
