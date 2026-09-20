@@ -1,3 +1,51 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+/* ---------------------------------------------------------------
+   Match mikolajrura.github.io: square edges, dashed backdrop grid,
+   hairline underlines instead of coloured links.
+   --------------------------------------------------------------- */
+
+/* 1. nothing is rounded */
+*,
+*::before,
+*::after {
+  border-radius: 0 !important;
+}
+
+/* 2. the same fixed dashed grid the other pages use, 16px pitch, 1 on 3 off */
+body {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16'%3E%3Cpath d='M0 0V16M0 0H16' stroke='%238a8a8a' stroke-opacity='.30' stroke-width='1' stroke-dasharray='1 3'/%3E%3C/svg%3E");
+  background-attachment: fixed;
+}
+:root[saved-theme="dark"] body {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16'%3E%3Cpath d='M0 0V16M0 0H16' stroke='%23737373' stroke-opacity='.20' stroke-width='1' stroke-dasharray='1 3'/%3E%3C/svg%3E");
+}
+
+/* 3. links read as text with a hairline under them, not as a colour */
+a,
+a.internal {
+  background-color: transparent !important;
+  text-decoration: none;
+  border-bottom: 1px solid color-mix(in srgb, currentColor 30%, transparent);
+  transition: border-color 0.12s, color 0.12s;
+}
+a:hover,
+a.internal:hover {
+  color: var(--tertiary);
+  border-bottom-color: currentColor;
+}
+a.internal .indicator-hook { display: none; }
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { border-bottom: 0; }
+
+/* 4. surfaces sit one hairline above the ground rather than floating on a fill */
+blockquote,
+.callout,
+pre,
+table,
+.popover > .popover-inner {
+  border: 1px solid var(--lightgray);
+}
+blockquote { border-left-width: 2px; }
+
+/* 5. small caps section heads, as on the CV and manifesto pages */
+h1, h2, h3 { letter-spacing: -0.01em; }
