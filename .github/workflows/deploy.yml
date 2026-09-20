@@ -28,10 +28,18 @@ jobs:
         run: npm ci
       - name: Build Quartz
         run: npx quartz build
+      - name: Assemble site (landing at root, Quartz under /pharmacology)
+        run: |
+          mkdir -p site/pharmacology
+          cp -r public/. site/pharmacology/
+          cp landing/index.html site/index.html
+          cp landing/404.html   site/404.html
+          echo "--- site root ---"; ls -1 site
+          test -f site/pharmacology/index.html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: public
+          path: site
 
   deploy:
     needs: build

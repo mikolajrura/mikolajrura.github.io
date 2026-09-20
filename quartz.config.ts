@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "pl-PL",
-    baseUrl: "mikolajrura.github.io",
+    baseUrl: "mikolajrura.github.io/pharmacology",
     // ^ przy deployu na GitHub Pages zmień na: mikolajrura.github.io
     ignorePatterns: ["private", "private/**", "**/templates", "**/templates/**", ".obsidian"],
     defaultDateType: "modified",
