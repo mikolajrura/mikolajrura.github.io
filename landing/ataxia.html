@@ -4,8 +4,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="color-scheme" content="light dark">
-<title>mikolajrura</title>
-<meta name="description" content="Pharmacology Masterrace and the Ataxin-7 interactome hub.">
+<title>spinocerebellar ataxia research</title>
+<meta name="description" content="Spinocerebellar ataxia research.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&display=swap">
@@ -29,15 +29,24 @@
   --border:rgba(115,115,115,.22); --border-op:#262626;
   --grid:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16'%3E%3Cpath d='M0 0V16M0 0H16' stroke='%23737373' stroke-opacity='.22' stroke-width='1' stroke-dasharray='1 3'/%3E%3C/svg%3E");
 }
+
+/* background film: rotating Purkinje layer, cropped from figures/film_mozdzek_web.mp4.
+   contain, not cover: the whole cerebellum stays in frame at any window size. */
+#bg{position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);
+  width:min(1120px,94vw);height:auto;max-height:88vh;aspect-ratio:560 / 254;
+  object-fit:contain;
+  z-index:-2;opacity:.16;pointer-events:none}
+body::after{content:"";position:fixed;inset:0;z-index:-1;background-image:var(--grid);pointer-events:none}
+@media (prefers-reduced-motion:reduce){#bg{display:none}}
 *{box-sizing:border-box}
 html,body{height:100%}
-body{margin:0;background:var(--bg);background-image:var(--grid);color:var(--fg);
+body{margin:0;background:var(--bg);color:var(--fg);
   font-family:var(--serif);font-size:15px;line-height:1.5;-webkit-font-smoothing:antialiased;
   display:flex;align-items:center;justify-content:center;padding:24px}
 
 .square{width:min(100%,290px);aspect-ratio:1;background:var(--panel);
   border:1px solid var(--border-op);padding:20px;display:flex;flex-direction:column}
-.mark h1{font-size:17px;font-weight:600;letter-spacing:-.01em;margin:0;line-height:1}
+.mark h1{font-size:17px;font-weight:600;letter-spacing:-.01em;margin:0;line-height:1.25;max-width:15ch}
 
 nav{margin-top:auto;display:flex;flex-direction:column;align-items:flex-start;gap:7px}
 a.link{font-size:13px;color:var(--faint);text-decoration:none;
@@ -53,19 +62,20 @@ footer{margin-top:15px;display:flex}
 </style>
 </head>
 <body>
+  <video id="bg" autoplay muted loop playsinline preload="auto" aria-hidden="true" tabindex="-1">
+    <source src="/bg.mp4" type="video/mp4">
+  </video>
   <main class="square">
     <div class="mark">
-      <h1>mikolajrura</h1>
+      <h1>spinocerebellar ataxia research</h1>
     </div>
 
     <nav>
-      <a class="link" href="/pharmacology/">pharmacology masterrace</a>
-      <a class="link" href="/ataxia/">spinocerebellar ataxia research</a>
-      <a class="link" href="/cv/">curriculum vitae</a>
+      <a class="link" href="/atxn7/">atxn7 interactome</a>
     </nav>
 
     <footer>
-      <a class="link" href="https://github.com/mikolajrura">github</a>
+      <a class="link" href="/">&#8592; mikolajrura</a>
     </footer>
   </main>
 </body>
