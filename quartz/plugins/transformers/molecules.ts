@@ -56,9 +56,6 @@ const css = `
 .mol-loading { color: #666; font-size: 13px; text-align: center; margin: 0; font-style: italic; }
 `
 
-// Path to the RDKit assets, served from quartz/static -> /static
-const RDKIT_DIR = "/static/rdkit/"
-
 const script = `
 const ATOM_COLOURS = {
   "1":[0.75,0.75,0.75],"6":[1,1,1],"7":[0.2,0.4,1],"8":[1,0.2,0.2],
@@ -111,13 +108,23 @@ async function svgToPngBlob(svgEl) {
   return new Promise((res) => canvas.toBlob((b) => res(b), "image/png"));
 }
 
+// The site may be served under a path prefix (e.g. /pharmacology), so /static
+// is not at the domain root. Mirror Quartz's pathToRoot on the runtime slug and
+// resolve to an absolute href up front, so a later SPA nav can't shift it.
+function rdkitDir() {
+  const slug = document.body.dataset.slug || "";
+  const up = slug.split("/").filter((x) => x !== "").slice(0, -1).map(() => "..").join("/");
+  return new URL((up || ".") + "/static/rdkit/", document.baseURI).href;
+}
+
 function loadRDKit() {
   if (window.__rdkitPromise) return window.__rdkitPromise;
   window.__rdkitPromise = new Promise((resolve, reject) => {
+    const dir = rdkitDir();
     const s = document.createElement("script");
-    s.src = "${RDKIT_DIR}RDKit_minimal.js";
+    s.src = dir + "RDKit_minimal.js";
     s.onload = () => {
-      window.initRDKitModule({ locateFile: (f) => "${RDKIT_DIR}" + f })
+      window.initRDKitModule({ locateFile: (f) => dir + f })
         .then(resolve).catch(reject);
     };
     s.onerror = reject;
