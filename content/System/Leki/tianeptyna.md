@@ -82,9 +82,9 @@ ChPL nie wspomina w ogóle o receptorze opioidowym.
 
 ##### Literatura na temat mechanizmu
 
-https://www.nature.com/articles/tp201430 - MOR jako cel molekularny
-https://www.nature.com/articles/npp201760 - MOR konieczny dla efektu behavioralnego, myszy nie wykazywały efektu tolerancji ani odstawiennego w tym badaniu
-https://www.nature.com/articles/s41386-021-01192-2 - MOR na interneuronach GABA-ergicznych SST+ brzusznego hipokampa wymagane do efektu farmakologicznego ostrego i chronicznego 
+https://www.nature.com/articles/tp201430 - MOR jako cel molekularny.
+https://www.nature.com/articles/npp201760 - MOR konieczny dla efektu behavioralnego, myszy nie wykazywały efektu tolerancji ani odstawiennego w tym badaniu.
+https://www.nature.com/articles/s41386-021-01192-2 - MOR na interneuronach GABA-ergicznych SST+ brzusznego hipokampa wymagane do efektu farmakologicznego ostrego i chronicznego.
 https://pubs.acs.org/acncdm/article/15/21/3863/346935/Classics-in-Chemical-Neuroscience-Tianeptine
 https://www.sciencedirect.com/science/article/abs/pii/S0039914025006873?via%3Dihub
 ## Wskazania
@@ -99,7 +99,60 @@ Oprócz tego można stosować go w:
 
 ## Działania niepożądane
 
+#### Częste
 
+- osłabienie
+- uczucie ściśniętego gardła
+- ból mięśniowy i lędźwiowy
+- ból żołądka, suchość błon, nudności, wymioty, ogólne pokarmowe
+- duszności (depresja oddechowa - MOR agonizm)
+- uderzenia gorąca (naczyniowe objawy)
+- tachykardia
+- bezsenność, senność, zawroty głowy, 
+- często jadłowstręt, 
+- koszmary senne
+
+##### Phase IV
+
+- hiponatremia (prawdopodobnie SIADH)
+- zaburzenia pozapiramidowe i dyskinezy (nieznany mechanizm)
+- trądzik
+- zwiększona aktywność enzymów wątrobowych (nieustalone)
+
+
+---
+
+### Badania kliniczne
+
+Z CHPL:
+
+4 badania RCT podwójnie zaślepione, kontrolowane placebo, krótkoterminowe u osób dorosłych z MDD.
+
+Jedno badanie ze stałymi dawkami 37.5 i 70 mg.
+Dwa badania z dawką elastyczną.
+Jedno badanie u osób w podeszłym wieku.
+Imipramina jako kontola aktywna.
+
+Dane:
+
+Po sześciu tygodniach stosowania tego leku w RCT z dawką elastyczną była istotna skuteczność w leczeniu MDD. W trialach z stałą dawką nie było istotnej skuteczności. 
+
+
+---
+
+#### ClinicalTrials.gov
+
+| NCT | Faza | Status | n | Wskazanie | Sponsor |
+|---|---|---|---:|---|---|
+| [NCT05686408](https://clinicaltrials.gov/study/NCT05686408) (UPLIFT) | 2 | COMPLETED | 132 | MDD, TNX‑601 ER | Tonix |
+| [NCT01309776](https://clinicaltrials.gov/study/NCT01309776) | 4 | COMPLETED | 164 | MDD vs escytalopram | Samsung Medical Center |
+| [NCT04249596](https://clinicaltrials.gov/study/NCT04249596) | 4 | **TERMINATED** | 38 | TRD | J. Javitch (Columbia) |
+| [NCT06012552](https://clinicaltrials.gov/study/NCT06012552) | 2 | RECRUITING | 140 | "covid fog" po COVID‑19 | WIM — PIB, **Polska** |
+| [NCT00879372](https://clinicaltrials.gov/study/NCT00879372) | 3 | UNKNOWN | 13 | depresja bipolarna, add‑on | HC Porto Alegre |
+| [NCT02049697](https://clinicaltrials.gov/study/NCT02049697) | 1 | COMPLETED | 6 | ADME ¹⁴C‑JNJ‑39823277 | Johnson & Johnson |
+| [NCT05935059](https://clinicaltrials.gov/study/NCT05935059) | NA | COMPLETED | 90 | ból po mastektomii, vs pregabalina | NCI Egypt |
+| [NCT04145076](https://clinicaltrials.gov/study/NCT04145076) | NA | UNKNOWN | 100 | ASD, fMRI, vs citalopram | King's College London |
+| [NCT04446039](https://clinicaltrials.gov/study/NCT04446039) | — | COMPLETED (obserwacyjne) | 370 212 | big‑data porównanie 11 LPD | Pfizer |
 
 ## Uwagi
 
