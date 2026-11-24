@@ -119,6 +119,11 @@ Oprócz tego można stosować go w:
 - trądzik
 - zwiększona aktywność enzymów wątrobowych (nieustalone)
 
+#### Interakcje
+
+Nie należy stosować tianeptyny z nieodwracalnymi inhibitorami MAO (iproniazyd) ze względu na ryzyko wystąpienia zapaści krążeniowej, napadowego nadciśnienia tętniczego, hipertermii, drgawek, zgonu.
+
+
 
 ---
 
@@ -155,4 +160,36 @@ Po sześciu tygodniach stosowania tego leku w RCT z dawką elastyczną była ist
 | [NCT04446039](https://clinicaltrials.gov/study/NCT04446039) | — | COMPLETED (obserwacyjne) | 370 212 | big‑data porównanie 11 LPD | Pfizer |
 
 ## Uwagi
+
+
+###### NCT04249596 (TRD, 12,5 mg 3×/d, 8 tyg.): 
+
+odpowiedź 7/38 = 18,4%, 
+remisja 6/38 = 15,8%, 
+dropout 8/38 = 21,1%, 
+
+Hamilton Rating Scale for Depression, wersja 24‑pozycyjna:
+
+−5,2 (SD 9,8).
+
+
+Interpretacja:
+
+SD = 9.8 to odchylenie standardowe, czyli to jak pacjenci różnili się od siebie z swoim wynikiem HAMD-24. 
+
+-5.2 to średnia z wszystkich pacjentów. Jeśli rozrzut między róznymi pacjentami którzy rzeczywiście brali te Tianeptynę jest większy niż średnia ogólna, to znaczy że niektórym pacjentom którzy to jedli się pogorszył stan. 
+
+###### NCT05686408 / UPLIFT
+
+Różnica MADRS aktywne vs placebo = 0,1 pkt, przy SE ~1,3.
+
+Skala MADRS to skala Mongomery-Asberg Depression Rating Scale. 
+
+Jest ona w skali od 0-60 i im mniejszy wynik tym lepszy stan pacjenta. Ja przykładowo mam około 59.
+
+W tym klinicznym badaniu UPLIFT: różnica 0.1 pkt na skali 0-60 między placebo a badaną. 
+
+**Czyli ludzie na atrapie poczuli sie dokladnie tak samo lepiej jak ludzie na leku. Roznica to 0,1 punktu na skali, ktora ma 60 punktow.**
+
+Szum pomiaru (SE≈1,3 pkt) jest DUZO wiekszy niz zmierzona roznica (0,1 pkt)
 
