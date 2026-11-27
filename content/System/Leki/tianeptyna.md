@@ -1,7 +1,8 @@
 ---
-title: "Tianeptyna"
+title: Tianeptyna
 tags:
   - lek
+done: 2026-11-25
 ---
 
 > [!info] Szybkie fakty
@@ -68,6 +69,9 @@ Synonimy w bazie obejmują JNJ‑39823277 / TPI‑1062 / S‑1574 / Stablon, ora
 Tianeptyna jest atypowym agonistą receptora μ-opioidowego (pomijalny efekt na delta i kappa opioidowe receptory).
 
 ![[Pasted image 20261124234051.png]]
+
+
+Brak struktur 3D dla tego leku i MOR.
 
 
 ###### Sprzeczność w źródłach na temat mechanizmu
@@ -172,7 +176,6 @@ Hamilton Rating Scale for Depression, wersja 24‑pozycyjna:
 
 −5,2 (SD 9,8).
 
-
 Interpretacja:
 
 SD = 9.8 to odchylenie standardowe, czyli to jak pacjenci różnili się od siebie z swoim wynikiem HAMD-24. 
@@ -180,6 +183,9 @@ SD = 9.8 to odchylenie standardowe, czyli to jak pacjenci różnili się od sieb
 -5.2 to średnia z wszystkich pacjentów. Jeśli rozrzut między róznymi pacjentami którzy rzeczywiście brali te Tianeptynę jest większy niż średnia ogólna, to znaczy że niektórym pacjentom którzy to jedli się pogorszył stan. 
 
 ###### NCT05686408 / UPLIFT
+
+
+Ten trial badał inną sól, nie natricum tylko oksalową tianeptynę.
 
 Różnica MADRS aktywne vs placebo = 0,1 pkt, przy SE ~1,3.
 
@@ -191,5 +197,8 @@ W tym klinicznym badaniu UPLIFT: różnica 0.1 pkt na skali 0-60 między placebo
 
 **Czyli ludzie na atrapie poczuli sie dokladnie tak samo lepiej jak ludzie na leku. Roznica to 0,1 punktu na skali, ktora ma 60 punktow.**
 
-Szum pomiaru (SE≈1,3 pkt) jest DUZO wiekszy niz zmierzona roznica (0,1 pkt)
+Szum pomiaru (Standard Error ≈ 1,3 pkt) jest DUZO wiekszy niz zmierzona roznica (0,1 pkt).
+
+**Standard Error**: jest to matematyczny koncept który mówi o tym że prawdziwa średnia znajduje się z 95 % prawdopodobieństwem w zakresie 2x SE. Czyli ta roznica 0,1 to nie „maly efekt leku". To miesci sie w bledzie pomiaru
+
 
